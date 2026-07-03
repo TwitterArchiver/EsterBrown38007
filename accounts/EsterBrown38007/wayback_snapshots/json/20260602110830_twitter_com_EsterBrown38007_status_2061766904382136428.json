@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061766904382136428",
+    "created_at": "2026-06-02T11:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061766904382136428"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061766904382136428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了逃避月考请了一周假结果被告知月考延迟了一周😁妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061766904382136428",
+        "created_at": "2026-06-02T11:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061766904382136428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061766904382136428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了逃避月考请了一周假结果被告知月考延迟了一周😁妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09.3.7 / OD / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 43,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2064641034014118328",
+    "created_at": "2026-06-10T10:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064656950307291267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064656950307291267",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064641034014118328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 她的主页全是骂人的回复，好诡异的一个人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064641028355973121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcUE4va4AEiW9j.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2064641034014118328",
+        "created_at": "2026-06-10T10:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064656950307291267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064656950307291267",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064641034014118328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 她的主页全是骂人的回复，好诡异的一个人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064641028355973121"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2064641034014118328",
+        "created_at": "2026-06-10T09:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064641034014118328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LK8NsnCJd",
+              "end": 44,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2064641034014118328/photo/1",
+              "media_key": "3_2064641028355973121",
+              "start": 21,
+              "url": "https://t.co/4LK8NsnCJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064641034014118328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我没太看懂农逼是啥意思 土逼的意思吗 https://t.co/4LK8NsnCJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 我是社交孤儿可以来找我聊天 / 直fo代表喜欢你 / 互fo查成分都会回的 / 很温良且傻，所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064452690810433536/quxK-g3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 147,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 246
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2058836989848547598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 176,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 730
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

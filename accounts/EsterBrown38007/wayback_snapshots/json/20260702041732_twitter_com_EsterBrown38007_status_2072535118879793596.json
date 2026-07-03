@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072535118879793596",
+    "created_at": "2026-07-02T04:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072535118879793596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058574118107439104",
+          "start": 3,
+          "username": "FFFFLLLLUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072535118879793596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072484189048570184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFFLLLLUG: 会在帮转发此贴并关注的朋友里抽一位送出解离剂与兴奋剂各1t\n^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072535118879793596",
+        "created_at": "2026-07-02T04:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072535118879793596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058574118107439104",
+              "start": 3,
+              "username": "FFFFLLLLUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072535118879793596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072484189048570184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFFLLLLUG: 会在帮转发此贴并关注的朋友里抽一位送出解离剂与兴奋剂各1t\n^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058574118107439104",
+        "conversation_id": "2072484189048570184",
+        "created_at": "2026-07-02T00:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072484189048570184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ffffllllug/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ffffllllug/status/2072483590043246890",
+              "start": 34,
+              "url": "https://t.co/iuJD7h3OAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072484189048570184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072483590043246890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会在帮转发此贴并关注的朋友里抽一位送出解离剂与兴奋剂各1t\n^ ^ https://t.co/iuJD7h3OAZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 250,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T15:41:51.000Z",
+        "description": "账户……爆炸了…………\n此账户为戏仿账户 主要用于自嘲与自我模仿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+JXnxgStXb841Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+JXnxgStXb841ZjI1",
+                "start": 0,
+                "url": "https://t.co/AdBvKgQRsM"
+              }
+            ]
+          }
+        },
+        "id": "2058574118107439104",
+        "location": "地底 像蚯蚓那样扭动着生存",
+        "name": "(._.)",
+        "pinned_tweet_id": "2064317420609892437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058574748662259712/ySBPrWZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 110,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/AdBvKgQRsM",
+        "username": "FFFFLLLLUG",
+        "verified": false
+      }
+    ]
+  }
+}

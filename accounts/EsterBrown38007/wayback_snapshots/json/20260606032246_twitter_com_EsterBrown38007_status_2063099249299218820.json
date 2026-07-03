@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2063086782326145518",
+    "created_at": "2026-06-06T03:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063099249299218820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783171667805822976",
+          "start": 0,
+          "username": "Dontleavem97585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063099249299218820",
+    "in_reply_to_user_id": "1783171667805822976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063098963579089068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontleavem97585 去医院查过已经尿酸高了，我觉得我需要少喝点了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2063086782326145518",
+        "created_at": "2026-06-06T03:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063099249299218820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783171667805822976",
+              "start": 0,
+              "username": "Dontleavem97585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063099249299218820",
+        "in_reply_to_user_id": "1783171667805822976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063098963579089068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontleavem97585 去医院查过已经尿酸高了，我觉得我需要少喝点了😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783171667805822976",
+        "conversation_id": "2063086782326145518",
+        "created_at": "2026-06-06T03:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063098963579089068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063098963579089068",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063086782326145518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 我的日常罢了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "pinned_tweet_id": "2062900580948103361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063063161402744832/3nCLB6dp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 91,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 172
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T16:30:40.000Z",
+        "description": "你说谎了呢",
+        "id": "1783171667805822976",
+        "location": "NSG",
+        "name": "A3!",
+        "pinned_tweet_id": "1811619730593317194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053823374212603904/AnPkO45B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 34,
+          "like_count": 7458,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 417
+        },
+        "username": "Dontleavem97585",
+        "verified": false
+      }
+    ]
+  }
+}

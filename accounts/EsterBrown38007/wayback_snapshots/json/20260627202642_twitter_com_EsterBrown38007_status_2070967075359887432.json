@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2070836442318979451",
+    "created_at": "2026-06-27T20:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070967075359887432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688591906216009728",
+          "start": 0,
+          "username": "Leslie__Xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070967075359887432",
+    "in_reply_to_user_id": "1688591906216009728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070927635883163889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leslie__Xu 酥皮可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2070836442318979451",
+        "created_at": "2026-06-27T20:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070967075359887432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688591906216009728",
+              "start": 0,
+              "username": "Leslie__Xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070967075359887432",
+        "in_reply_to_user_id": "1688591906216009728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070927635883163889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leslie__Xu 酥皮可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688591906216009728",
+        "conversation_id": "2070836442318979451",
+        "created_at": "2026-06-27T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070927635883163889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070927635883163889",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070836442318979451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 酥皮可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 238,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T16:44:25.000Z",
+        "description": "04年/（福）建省人/双子座/普通男性/INFP/多重人格/文艺苦手/台风爱好者/雨瘾症患者/gal重度依赖/爱邻居的猫/天下一等一的蠢才\n你待我如何我便待你如何，理论上我希望每个人都开心",
+        "id": "1688591906216009728",
+        "location": "妈妈省",
+        "name": "水無月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037212841644900352/ClV_Eo6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 190,
+          "like_count": 8016,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 7223
+        },
+        "url": "",
+        "username": "Leslie__Xu",
+        "verified": false
+      }
+    ]
+  }
+}

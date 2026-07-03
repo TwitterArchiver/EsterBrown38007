@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070692069887340544"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2070692072596840941",
+    "created_at": "2026-06-27T02:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070692072596840941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/npdUllW2d1",
+          "end": 52,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2070692072596840941/photo/1",
+          "media_key": "3_2070692069887340544",
+          "start": 29,
+          "url": "https://t.co/npdUllW2d1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070692072596840941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽社区戒毒好吓人啊，这么严格，od会被拉去社区戒毒吗？ https://t.co/npdUllW2d1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070692069887340544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyTd3DacAAUZdT.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070692069887340544"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2070692072596840941",
+        "created_at": "2026-06-27T02:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070692072596840941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npdUllW2d1",
+              "end": 52,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2070692072596840941/photo/1",
+              "media_key": "3_2070692069887340544",
+              "start": 29,
+              "url": "https://t.co/npdUllW2d1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070692072596840941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽社区戒毒好吓人啊，这么严格，od会被拉去社区戒毒吗？ https://t.co/npdUllW2d1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 230,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061837061288845502",
+    "created_at": "2026-06-03T00:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061966094936805824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823280395603062784",
+          "start": 0,
+          "username": "Lora_a66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061966094936805824",
+    "in_reply_to_user_id": "1823280395603062784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061954853191250195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lora_a66 我感觉是差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061837061288845502",
+        "created_at": "2026-06-03T00:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061966094936805824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823280395603062784",
+              "start": 0,
+              "username": "Lora_a66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061966094936805824",
+        "in_reply_to_user_id": "1823280395603062784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061954853191250195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lora_a66 我感觉是差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823280395603062784",
+        "conversation_id": "2061837061288845502",
+        "created_at": "2026-06-02T23:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061954853191250195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061954853191250195",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061837061288845502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 jbpd哦起来是啥样的。和pr一样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09.3.7 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 51,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 97
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T08:48:34.000Z",
+        "description": "od｜🔪🩸｜",
+        "id": "1823280395603062784",
+        "name": "名稱不可為空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827222997423550464/VZ1Yq6wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Lora_a66",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2059520926665019670",
+    "created_at": "2026-05-27T11:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059604108781519215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996406370418270208",
+          "start": 0,
+          "username": "PiperZ58084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059604108781519215",
+    "in_reply_to_user_id": "1996406370418270208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059520926665019670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PiperZ58084 可以看见我的评论嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2059520926665019670",
+        "created_at": "2026-05-27T11:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059604108781519215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996406370418270208",
+              "start": 0,
+              "username": "PiperZ58084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059604108781519215",
+        "in_reply_to_user_id": "1996406370418270208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059520926665019670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PiperZ58084 可以看见我的评论嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996406370418270208",
+        "conversation_id": "2059520926665019670",
+        "created_at": "2026-05-27T06:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059520926665019670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059520926665019670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我发现这个推特呀会吞评论 我前面发的好多贴我点进去才发现都被折叠了或者消失掉了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ 2009.3.7  od  宅逼且社交孤儿  很温良  关注代表喜欢你•̀֊•́",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059562968971653121/Jr2Ciiee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T02:29:12.000Z",
+        "description": "",
+        "id": "1996406370418270208",
+        "name": "lul-e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027191851350970369/ZJvr-TC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 38
+        },
+        "username": "PiperZ58084",
+        "verified": false
+      }
+    ]
+  }
+}

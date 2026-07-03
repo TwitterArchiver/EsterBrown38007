@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061449666118774861",
+    "created_at": "2026-06-01T16:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061481384368370168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061481384368370168",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061472496969457933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "才10t就如此舒服吗，明天试试15t吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061449666118774861",
+        "created_at": "2026-06-01T16:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061481384368370168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061481384368370168",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061472496969457933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才10t就如此舒服吗，明天试试15t吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061449666118774861",
+        "created_at": "2026-06-01T15:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061472496969457933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061472496969457933",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061466724642521513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9t，有点晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7 / OD/ 宅逼且社交孤儿 / 很温良 / 欢迎找我互fo聊天 /直fo代表喜欢你",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061398553424244736/nl4cDmzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 27,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 59
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

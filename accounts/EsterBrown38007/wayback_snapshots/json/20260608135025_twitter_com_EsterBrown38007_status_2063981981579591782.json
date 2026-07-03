@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2063979729317982256",
+    "created_at": "2026-06-08T13:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063981981579591782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020766522097143808",
+          "start": 0,
+          "username": "mmrnadna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063981981579591782",
+    "in_reply_to_user_id": "2020766522097143808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063981661524815904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmrnadna 抱抱૮₍ ˊᯅˋ₎ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2063979729317982256",
+        "created_at": "2026-06-08T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063981981579591782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020766522097143808",
+              "start": 0,
+              "username": "mmrnadna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063981981579591782",
+        "in_reply_to_user_id": "2020766522097143808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063981661524815904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmrnadna 抱抱૮₍ ˊᯅˋ₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020766522097143808",
+        "conversation_id": "2063979729317982256",
+        "created_at": "2026-06-08T13:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063981661524815904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063981661524815904",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063979729317982256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 抱抱你ヽ(｡･ω･｡)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你 /互fo查成分都会回的！",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "pinned_tweet_id": "2062900580948103361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063116113156927488/RJFp8gPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 121,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 206
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T07:47:59.000Z",
+        "description": "性压抑高中小楚南一枚\n小号@mmrnadna2喵\n欢迎来找我聊天，咱超温柔的喵(〜￣▽￣)〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "mmrnadna2"
+              }
+            ]
+          }
+        },
+        "id": "2020766522097143808",
+        "location": "中华人民共和国",
+        "name": "列位都是我的RBQhiahia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051530429627502592/nAKGvzGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "username": "mmrnadna",
+        "verified": false
+      }
+    ]
+  }
+}

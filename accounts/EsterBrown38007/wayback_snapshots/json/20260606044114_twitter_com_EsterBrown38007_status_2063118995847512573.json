@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2060969588674937108",
+    "created_at": "2026-06-06T04:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063118995847512573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829914044750499840",
+          "start": 0,
+          "username": "xg205426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063118995847512573",
+    "in_reply_to_user_id": "1829914044750499840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063118593248870778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xg205426 你大概是隔几天一吃呢请问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2060969588674937108",
+        "created_at": "2026-06-06T04:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063118995847512573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829914044750499840",
+              "start": 0,
+              "username": "xg205426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063118995847512573",
+        "in_reply_to_user_id": "1829914044750499840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063118593248870778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xg205426 你大概是隔几天一吃呢请问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829914044750499840",
+        "conversation_id": "2060969588674937108",
+        "created_at": "2026-06-06T04:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063118593248870778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063118593248870778",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063117884558385647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 是的 但是要间隔几天吃一次 和普瑞一样 都会耐药 这个加巴喷丁的耐药性比普瑞高一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "pinned_tweet_id": "2062900580948103361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063116113156927488/RJFp8gPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 98,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 178
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T16:08:11.000Z",
+        "description": "如果死亡是起点",
+        "id": "1829914044750499840",
+        "name": "西宫",
+        "pinned_tweet_id": "2062942134223950120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977419443207843840/q61e4v7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 39,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 137
+        },
+        "username": "xg205426",
+        "verified": false
+      }
+    ]
+  }
+}

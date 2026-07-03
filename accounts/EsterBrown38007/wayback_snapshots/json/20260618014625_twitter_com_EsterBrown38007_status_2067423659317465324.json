@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2067290162154123399",
+    "created_at": "2026-06-18T01:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067423659317465324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1632765156244738048",
+          "start": 0,
+          "username": "xiaotunsalutee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067423659317465324",
+    "in_reply_to_user_id": "1632765156244738048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067290162154123399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotunsalutee 包子你继续😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2067290162154123399",
+        "created_at": "2026-06-18T01:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067423659317465324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1632765156244738048",
+              "start": 0,
+              "username": "xiaotunsalutee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067423659317465324",
+        "in_reply_to_user_id": "1632765156244738048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067290162154123399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotunsalutee 包子你继续😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632765156244738048",
+        "conversation_id": "2067290162154123399",
+        "created_at": "2026-06-17T16:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067290162154123399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067290162154123399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒o失败 我是贵物 一秒破功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "💊❤️",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 190,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 385
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:28:52.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "id": "1632765156244738048",
+        "location": "异世界",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 197,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 257
+        },
+        "username": "xiaotunsalutee",
+        "verified": false
+      }
+    ]
+  }
+}

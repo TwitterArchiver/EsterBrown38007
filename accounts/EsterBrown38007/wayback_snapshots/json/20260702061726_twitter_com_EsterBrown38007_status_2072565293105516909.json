@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072565283781509120"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072565293105516909",
+    "created_at": "2026-07-02T06:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072565293105516909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHgiT4pt3L",
+          "end": 84,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2072565293105516909/photo/1",
+          "media_key": "3_2072565283781509120",
+          "start": 61,
+          "url": "https://t.co/pHgiT4pt3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072565293105516909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我求求我自己不要啥逼话都要告诉其他人了啊，我咋这么缺爱呢，说完了之后没啥吊用还留一个人家日后攻击我的把柄我求求我自己了啊 https://t.co/pHgiT4pt3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2222,
+        "media_key": "3_2072565283781509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMM7JQmagAA6lSo.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072565283781509120"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072565293105516909",
+        "created_at": "2026-07-02T06:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072565293105516909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHgiT4pt3L",
+              "end": 84,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2072565293105516909/photo/1",
+              "media_key": "3_2072565283781509120",
+              "start": 61,
+              "url": "https://t.co/pHgiT4pt3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072565293105516909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求求我自己不要啥逼话都要告诉其他人了啊，我咋这么缺爱呢，说完了之后没啥吊用还留一个人家日后攻击我的把柄我求求我自己了啊 https://t.co/pHgiT4pt3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "活到18歲",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072562987907588096/8jqPosRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 250,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

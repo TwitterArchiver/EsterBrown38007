@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2059458825644839387",
+    "created_at": "2026-05-29T09:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060298072459268243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943531654196400129",
+          "start": 0,
+          "username": "liu_shi17370"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060298072459268243",
+    "in_reply_to_user_id": "1943531654196400129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060296768143958192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_shi17370 现在呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2059458825644839387",
+        "created_at": "2026-05-29T09:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060298072459268243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943531654196400129",
+              "start": 0,
+              "username": "liu_shi17370"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060298072459268243",
+        "in_reply_to_user_id": "1943531654196400129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060296768143958192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_shi17370 现在呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943531654196400129",
+        "conversation_id": "2059458825644839387",
+        "created_at": "2026-05-29T09:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060296768143958192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060296768143958192",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059817342264361451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 收不到信息通知好像被吞了……我是翻自己帖子我才看见的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7/OD/宅逼且社交孤儿/很温良接受程度很高/欢迎找我互fo聊天",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059562968971653121/Jr2Ciiee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 20,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 42
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T04:43:58.000Z",
+        "description": "不要攻击我",
+        "id": "1943531654196400129",
+        "location": "🚪88",
+        "name": "乖宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058580657056722944/qrKsojpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 7,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 169
+        },
+        "username": "liu_shi17370",
+        "verified": false
+      }
+    ]
+  }
+}

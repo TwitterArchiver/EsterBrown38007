@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2056448722083696701",
+    "created_at": "2026-05-18T18:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056448722083696701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "712475348",
+          "start": 0,
+          "username": "IdelisaMagda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056448722083696701",
+    "in_reply_to_user_id": "712475348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@IdelisaMagda 哪里有女菩萨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2056448722083696701",
+        "created_at": "2026-05-18T18:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056448722083696701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "712475348",
+              "start": 0,
+              "username": "IdelisaMagda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056448722083696701",
+        "in_reply_to_user_id": "712475348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@IdelisaMagda 哪里有女菩萨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "Ester Brown",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-23T14:02:49.000Z",
+        "description": "想找个长期的大哥哥自己一个人无聊了，私信必回",
+        "id": "712475348",
+        "location": "3.4km",
+        "name": "爱吃香蕉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2425289859/6rvd3tl56ab9kpm0ijxz_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "IdelisaMagda",
+        "verified": false
+      }
+    ]
+  }
+}

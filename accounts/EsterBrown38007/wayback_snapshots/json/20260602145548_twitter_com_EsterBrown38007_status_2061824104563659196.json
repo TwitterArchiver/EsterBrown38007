@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061770750114091192",
+    "created_at": "2026-06-02T14:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061824104563659196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1013470807027113984",
+          "start": 0,
+          "username": "nego121122"
+        },
+        {
+          "end": 26,
+          "id": "1757753640671191040",
+          "start": 12,
+          "username": "Miaomilly0818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061824104563659196",
+    "in_reply_to_user_id": "1013470807027113984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061823507647045789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nego121122 @Miaomilly0818 追星魔怔一点的我还可以接受，但是为了追星跟朋友闹掰简直诡异😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061770750114091192",
+        "created_at": "2026-06-02T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824104563659196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1013470807027113984",
+              "start": 0,
+              "username": "nego121122"
+            },
+            {
+              "end": 26,
+              "id": "1757753640671191040",
+              "start": 12,
+              "username": "Miaomilly0818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824104563659196",
+        "in_reply_to_user_id": "1013470807027113984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061823507647045789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nego121122 @Miaomilly0818 追星魔怔一点的我还可以接受，但是为了追星跟朋友闹掰简直诡异😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013470807027113984",
+        "conversation_id": "2061770750114091192",
+        "created_at": "2026-06-02T14:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061823507647045789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            },
+            {
+              "end": 31,
+              "id": "1757753640671191040",
+              "start": 17,
+              "username": "Miaomilly0818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061823507647045789",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061819933730938971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 @Miaomilly0818 刷到这个我不行了，就猜到果果给路人留下的都是这种印象啊啊啊笑死，，😹😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09.3.7 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 49,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 88
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-01T17:14:04.000Z",
+        "description": "🥺🙏💕（喜欢到处评论，乐趣是主页刷到啥评论啥，介意可屏。请不要回关我，可能随时跑路）\n偶尔这个号登不上我会用交易号来dm：https://t.co/F6qJMSFIH4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/nekoo0304",
+                "end": 84,
+                "expanded_url": "https://x.com/nekoo0304",
+                "start": 61,
+                "url": "https://t.co/F6qJMSFIH4"
+              }
+            ]
+          }
+        },
+        "id": "1013470807027113984",
+        "name": "rabbit_nego",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805073774125195264/DacMJ9_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 227,
+          "like_count": 4899,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 173
+        },
+        "username": "nego121122",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T13:08:30.000Z",
+        "description": "20↓｜ ♀｜色々呟きます ｜甘えん坊｜病み ｜自傷 ｜依存 ｜ \n♡ → 気になりお迎え\nいつでも連絡していいよ ^ ^\n精神安定剤 @Aza_VirtuaReal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Aza_VirtuaReal"
+              }
+            ]
+          }
+        },
+        "id": "1757753640671191040",
+        "name": "みお",
+        "pinned_tweet_id": "2041151534348529734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015452780442378240/vVbHwfcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 235,
+          "like_count": 3527,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2028
+        },
+        "username": "Miaomilly0818",
+        "verified": false
+      }
+    ]
+  }
+}

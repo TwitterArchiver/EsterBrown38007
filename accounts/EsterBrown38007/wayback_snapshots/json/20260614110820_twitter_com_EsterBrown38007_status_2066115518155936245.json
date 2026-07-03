@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2066091946351935505",
+    "created_at": "2026-06-14T11:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066115518155936245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861461333847482371",
+          "start": 0,
+          "username": "TiMBT9HkZg68975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066115518155936245",
+    "in_reply_to_user_id": "1861461333847482371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066115424039911804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiMBT9HkZg68975 路过的可以踢一脚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T11:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066115518155936245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861461333847482371",
+              "start": 0,
+              "username": "TiMBT9HkZg68975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066115518155936245",
+        "in_reply_to_user_id": "1861461333847482371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066115424039911804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiMBT9HkZg68975 路过的可以踢一脚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861461333847482371",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T11:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066115424039911804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066115424039911804",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066091946351935505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 我也刷到了真服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 175,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 352
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T17:26:09.000Z",
+        "description": "10年高一男生，重度抑郁重度焦虑被迫害妄想症现在转双向了还有轻微精分，半休学中，od割手，只是想找人聊聊天",
+        "id": "1861461333847482371",
+        "name": "October bird",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997680303129939968/O726eACZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 75,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 83
+        },
+        "username": "TiMBT9HkZg68975",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2059825851894747282",
+    "created_at": "2026-05-28T04:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059850721860935817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "IMGeneralSun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059850721860935817",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059825851894747282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IMGeneralSun 请问看得到我评论吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2059825851894747282",
+        "created_at": "2026-05-28T04:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059850721860935817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "IMGeneralSun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059850721860935817",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059825851894747282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IMGeneralSun 请问看得到我评论吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "2059825851894747282",
+        "created_at": "2026-05-28T02:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059825851894747282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059825851894747282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚才私信上的数字显示5，但是点了发现只有两条信息，是不是被吞了啊？有没有人发了私信给我但我没回的可以评论我一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ 2009.3.7  od  宅逼且社交孤儿  很温良  关注代表喜欢你•̀֊•́",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059562968971653121/Jr2Ciiee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "我是男的别再觉得我是女的了谢谢！本人农村户口（可验证）技校毕业（可验证）持有某函授大专证书（可验证）（注：本人无任何小号）",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "白色小孩（无小号，有也不会让你们发现）",
+        "pinned_tweet_id": "2055822795893092796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054103810906509312/sJoC4SNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6858,
+          "following_count": 437,
+          "like_count": 63268,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 28046
+        },
+        "username": "IMGeneralSun",
+        "verified": false
+      }
+    ]
+  }
+}

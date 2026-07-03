@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2062894518803066948",
+    "created_at": "2026-06-05T14:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062902604519338292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975521797824196608",
+          "start": 0,
+          "username": "WanRu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062902604519338292",
+    "in_reply_to_user_id": "1975521797824196608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062902444078833973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanRu8964 那肯定没法吸收啊，你去搜搜，加巴需要分段给药的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2062894518803066948",
+        "created_at": "2026-06-05T14:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062902604519338292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975521797824196608",
+              "start": 0,
+              "username": "WanRu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062902604519338292",
+        "in_reply_to_user_id": "1975521797824196608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062902444078833973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanRu8964 那肯定没法吸收啊，你去搜搜，加巴需要分段给药的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975521797824196608",
+        "conversation_id": "2062894518803066948",
+        "created_at": "2026-06-05T14:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062902444078833973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062902444078833973",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062902387430629555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 一次性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 81,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 159
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T11:21:44.000Z",
+        "description": "如",
+        "id": "1975521797824196608",
+        "name": "wanru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062343245175402496/BiYQLz3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 97,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "WanRu8964",
+        "verified": false
+      }
+    ]
+  }
+}

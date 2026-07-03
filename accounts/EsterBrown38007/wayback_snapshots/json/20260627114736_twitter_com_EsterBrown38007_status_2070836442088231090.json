@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070836439408103424"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2070836442088231090",
+    "created_at": "2026-06-27T11:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070836442088231090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GS4R40nZMe",
+          "end": 28,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2070836442088231090/photo/1",
+          "media_key": "3_2070836439408103424",
+          "start": 5,
+          "url": "https://t.co/GS4R40nZMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070836442088231090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素批来的 https://t.co/GS4R40nZMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070836439408103424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0WxRba0AA4vfp.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070836439408103424"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2070836442088231090",
+        "created_at": "2026-06-27T11:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070836442088231090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GS4R40nZMe",
+              "end": 28,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2070836442088231090/photo/1",
+              "media_key": "3_2070836439408103424",
+              "start": 5,
+              "url": "https://t.co/GS4R40nZMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070836442088231090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素批来的 https://t.co/GS4R40nZMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 238,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

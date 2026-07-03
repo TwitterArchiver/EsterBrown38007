@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2064377239765127429",
+    "created_at": "2026-06-09T16:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064377239765127429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060006148087181312",
+          "start": 3,
+          "username": "tristeza226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064377239765127429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064352668500607003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tristeza226: 求转转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2064377239765127429",
+        "created_at": "2026-06-09T16:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064377239765127429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060006148087181312",
+              "start": 3,
+              "username": "tristeza226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064377239765127429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064352668500607003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tristeza226: 求转转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060006148087181312",
+        "conversation_id": "2064352668500607003",
+        "created_at": "2026-06-09T14:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064352668500607003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tristeza226/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/tristeza226/status/2063537080979059147",
+              "start": 4,
+              "url": "https://t.co/uncaHcnOpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064352668500607003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063537080979059147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求转转 https://t.co/uncaHcnOpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你 /互fo查成分都会回的！",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063116113156927488/RJFp8gPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 127,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 217
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2063537080979059147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 92,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2068033913700880544",
+    "created_at": "2026-06-19T23:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T00:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068116024294244779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018993147066368001",
+          "start": 0,
+          "username": "Maxtj1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068116024294244779",
+    "in_reply_to_user_id": "2018993147066368001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068067269369033027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxtj1v 对！😡不能再day0了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2068033913700880544",
+        "created_at": "2026-06-19T23:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068116024294244779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018993147066368001",
+              "start": 0,
+              "username": "Maxtj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068116024294244779",
+        "in_reply_to_user_id": "2018993147066368001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068067269369033027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxtj1v 对！😡不能再day0了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018993147066368001",
+        "conversation_id": "2068033913700880544",
+        "created_at": "2026-06-19T20:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068067269369033027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068067269369033027",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068033913700880544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 挑战开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "Kimka",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 226,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T10:21:37.000Z",
+        "description": "🌈 在网上是一个贱贱的臭屌丝 现实中也是求大家不要真实我 记性很差 说话有时候会不清不楚  喜欢我的人可以来找我交友了 讨厌我的人也可以",
+        "id": "2018993147066368001",
+        "location": "你嘴巴里",
+        "name": "Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064053750659235840/CO0rIyVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 89,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "Maxtj1v",
+        "verified": false
+      }
+    ]
+  }
+}

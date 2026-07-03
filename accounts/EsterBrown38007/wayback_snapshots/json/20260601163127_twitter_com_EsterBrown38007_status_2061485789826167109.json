@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061485789826167109",
+    "created_at": "2026-06-01T16:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061485789826167109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061485789826167109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "加巴。喷丁。是我的一个爱人呀。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061485789826167109",
+        "created_at": "2026-06-01T16:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061485789826167109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061485789826167109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴。喷丁。是我的一个爱人呀。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7 / OD/ 宅逼且社交孤儿 / 很温良 / 欢迎找我互fo聊天 /直fo代表喜欢你",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061398553424244736/nl4cDmzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 27,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

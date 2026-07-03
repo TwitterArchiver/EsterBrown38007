@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2064303669479391670",
+    "created_at": "2026-06-09T12:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064326562527564204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1303801978624118784",
+          "start": 0,
+          "username": "ChaNgeMiNd67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064326562527564204",
+    "in_reply_to_user_id": "1303801978624118784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064325318182354987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaNgeMiNd67 😾😾😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2064303669479391670",
+        "created_at": "2026-06-09T12:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326562527564204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1303801978624118784",
+              "start": 0,
+              "username": "ChaNgeMiNd67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326562527564204",
+        "in_reply_to_user_id": "1303801978624118784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064325318182354987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaNgeMiNd67 😾😾😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303801978624118784",
+        "conversation_id": "2064303669479391670",
+        "created_at": "2026-06-09T12:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064325318182354987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064325318182354987",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064303669479391670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 好可怕啊就这样散发莫名其妙的恶意吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你 /互fo查成分都会回的！",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063116113156927488/RJFp8gPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 126,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 214
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T21:06:41.000Z",
+        "description": "cnmb",
+        "id": "1303801978624118784",
+        "location": "地府",
+        "name": "帶狀皰疹患者",
+        "pinned_tweet_id": "2063569115575648276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062527414274834432/NNGV4wEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 387
+        },
+        "username": "ChaNgeMiNd67",
+        "verified": false
+      }
+    ]
+  }
+}

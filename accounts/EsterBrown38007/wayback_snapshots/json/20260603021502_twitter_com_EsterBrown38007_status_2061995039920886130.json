@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061737240657846765",
+    "created_at": "2026-06-03T02:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061995039920886130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037776208436269056",
+          "start": 0,
+          "username": "CEtoilet8360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061995039920886130",
+    "in_reply_to_user_id": "2037776208436269056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061994920085491766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CEtoilet8360 😺😺😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061737240657846765",
+        "created_at": "2026-06-03T02:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061995039920886130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037776208436269056",
+              "start": 0,
+              "username": "CEtoilet8360"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061995039920886130",
+        "in_reply_to_user_id": "2037776208436269056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061994920085491766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CEtoilet8360 😺😺😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037776208436269056",
+        "conversation_id": "2061737240657846765",
+        "created_at": "2026-06-03T02:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061994920085491766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061994920085491766",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061737240657846765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09.3.7 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 52,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 102
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T06:18:17.000Z",
+        "description": "？",
+        "id": "2037776208436269056",
+        "location": "我学校",
+        "name": "Сiеl ΕtoiΙet",
+        "pinned_tweet_id": "2038086639810174986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038072802587353089/od7nmgcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 254,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 194
+        },
+        "username": "CEtoilet8360",
+        "verified": false
+      }
+    ]
+  }
+}

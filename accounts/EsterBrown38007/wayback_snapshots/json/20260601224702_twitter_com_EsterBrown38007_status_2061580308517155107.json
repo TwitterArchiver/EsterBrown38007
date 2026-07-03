@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061580308517155107",
+    "created_at": "2026-06-01T22:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T23:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061580308517155107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052592592244858880",
+          "start": 3,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061580308517155107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061247651690201318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honoka_520: 可以帮我转发一下这条吗，我大号被上扣球了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061580308517155107",
+        "created_at": "2026-06-01T22:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061580308517155107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052592592244858880",
+              "start": 3,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061580308517155107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061247651690201318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honoka_520: 可以帮我转发一下这条吗，我大号被上扣球了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052592592244858880",
+        "conversation_id": "2061247651690201318",
+        "created_at": "2026-06-01T00:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061247651690201318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/honoka_520/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/honoka_520/status/2061226503921361283",
+              "start": 22,
+              "url": "https://t.co/OqObindLJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061247651690201318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1937,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061226503921361283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以帮我转发一下这条吗，我大号被上扣球了。 https://t.co/OqObindLJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7 / OD / 宅逼且社交孤儿 / 很温良 / 欢迎找我互fo聊天 /直fo代表喜欢你",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061398553424244736/nl4cDmzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 27,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 65
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2061226503921361283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 260,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 307
+        },
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2068033913700880544",
+    "created_at": "2026-06-19T18:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068034987019149748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020766522097143808",
+          "start": 0,
+          "username": "mmrnadna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068034987019149748",
+    "in_reply_to_user_id": "2020766522097143808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068034713965756699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmrnadna 谢谢你啊，说来奇怪，我是磕晕了然后去看他动态给他主页点赞，然后她看见之后也主动加我了。我俩都互相狠想对方😿😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2068033913700880544",
+        "created_at": "2026-06-19T18:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068034987019149748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020766522097143808",
+              "start": 0,
+              "username": "mmrnadna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068034987019149748",
+        "in_reply_to_user_id": "2020766522097143808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068034713965756699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmrnadna 谢谢你啊，说来奇怪，我是磕晕了然后去看他动态给他主页点赞，然后她看见之后也主动加我了。我俩都互相狠想对方😿😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020766522097143808",
+        "conversation_id": "2068033913700880544",
+        "created_at": "2026-06-19T18:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068034713965756699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068034713965756699",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068033913700880544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 真为你高兴www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "Kimka",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 227,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T07:47:59.000Z",
+        "description": "10性压抑高一小楚南一枚\n小号@mmrnadna2喵\n\n欢迎来找我聊天，咱超温柔的喵(〜￣▽￣)〜\n互fo(ff)我看到了一定会回复哦hhh\n不上推就是上学去了๐·°(৹˃̵﹏˂̵৹)°·๐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "mmrnadna2"
+              }
+            ]
+          }
+        },
+        "id": "2020766522097143808",
+        "location": "中华人民共和国",
+        "name": "列位都是我的RBQhiahia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051530429627502592/nAKGvzGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "mmrnadna",
+        "verified": false
+      }
+    ]
+  }
+}

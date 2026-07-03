@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2065757799175639091",
+    "created_at": "2026-06-14T02:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065985847976239122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065985847976239122",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065757799175639091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 我有那个带状疱疹后神经痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2065757797044965376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsLxYTb0AAtA7O.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2065757799175639091",
+        "created_at": "2026-06-14T02:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065985847976239122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065985847976239122",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065757799175639091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 我有那个带状疱疹后神经痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065757797044965376"
+          ]
+        },
+        "author_id": "2053707183427366912",
+        "conversation_id": "2065757799175639091",
+        "created_at": "2026-06-13T11:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065757799175639091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBNsSCoYFP",
+              "end": 40,
+              "expanded_url": "https://x.com/meyu_121/status/2065757799175639091/photo/1",
+              "media_key": "3_2065757797044965376",
+              "start": 17,
+              "url": "https://t.co/pBNsSCoYFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065757799175639091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子你是不是想开...普瑞巴林啊 https://t.co/pBNsSCoYFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 166,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 319
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "yume🇭🇰∥健全人fol我死那个∥神聖かまってちゃん 李志 beyond∥愛人 @xuanying114514\n∥rip @Yume_121_\n@Yume_121_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yume_121_"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Yume_121_3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 168,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      }
+    ]
+  }
+}

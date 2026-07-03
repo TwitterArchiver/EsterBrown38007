@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2062051171423150582",
+    "created_at": "2026-06-03T07:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062080979544785389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1427195271797088260",
+          "start": 0,
+          "username": "ylyy_y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062080979544785389",
+    "in_reply_to_user_id": "1427195271797088260",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062080803576934519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylyy_y 😽❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2062051171423150582",
+        "created_at": "2026-06-03T07:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062080979544785389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1427195271797088260",
+              "start": 0,
+              "username": "ylyy_y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062080979544785389",
+        "in_reply_to_user_id": "1427195271797088260",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062080803576934519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylyy_y 😽❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427195271797088260",
+        "conversation_id": "2062051171423150582",
+        "created_at": "2026-06-03T07:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062080803576934519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062080803576934519",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062079792401523059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 好吧很遗憾了 抱一丝&lt;(。_。)&gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "pinned_tweet_id": "2061737240657846765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 58,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 119
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T09:07:39.000Z",
+        "description": "🎵",
+        "id": "1427195271797088260",
+        "name": "Cigarette ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044437557308743680/-QtBZaTv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "ylyy_y",
+        "verified": false
+      }
+    ]
+  }
+}

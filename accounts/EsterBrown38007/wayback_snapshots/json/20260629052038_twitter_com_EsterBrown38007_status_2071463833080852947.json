@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2071279621132497126",
+    "created_at": "2026-06-29T05:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071463833080852947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1792161919429996544",
+          "start": 0,
+          "username": "suki_kawaii_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071463833080852947",
+    "in_reply_to_user_id": "1792161919429996544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071463485859578027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suki_kawaii_no 两天睡了七个小时，实在受不了了请假了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2071279621132497126",
+        "created_at": "2026-06-29T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071463833080852947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792161919429996544",
+              "start": 0,
+              "username": "suki_kawaii_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071463833080852947",
+        "in_reply_to_user_id": "1792161919429996544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071463485859578027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suki_kawaii_no 两天睡了七个小时，实在受不了了请假了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792161919429996544",
+        "conversation_id": "2071279621132497126",
+        "created_at": "2026-06-29T05:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071463485859578027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071463485859578027",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071429655438237880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 不是，你真矿啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 247,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:56:45.000Z",
+        "description": "你好！陌生人祝你天天开心^_^",
+        "id": "1792161919429996544",
+        "name": "纳纳芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072393679011840/GIZTHZlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 42,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "suki_kawaii_no",
+        "verified": false
+      }
+    ]
+  }
+}

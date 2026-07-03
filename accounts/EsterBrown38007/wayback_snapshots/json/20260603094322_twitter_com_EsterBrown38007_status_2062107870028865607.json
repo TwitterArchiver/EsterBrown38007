@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062107867101155328"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2062107870028865607",
+    "created_at": "2026-06-03T09:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062107870028865607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkTKi2xdEn",
+          "end": 56,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2062107870028865607/photo/1",
+          "media_key": "3_2062107867101155328",
+          "start": 33,
+          "url": "https://t.co/wkTKi2xdEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062107870028865607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一大瓶加巴却因为耐药不能吃😿😿😿左边都是空壳子哦，感觉很可爱捏😽 https://t.co/wkTKi2xdEn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2062107867101155328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ULfsaUAAon4p.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062107867101155328"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2062107870028865607",
+        "created_at": "2026-06-03T09:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062107870028865607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkTKi2xdEn",
+              "end": 56,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2062107870028865607/photo/1",
+              "media_key": "3_2062107867101155328",
+              "start": 33,
+              "url": "https://t.co/wkTKi2xdEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062107870028865607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一大瓶加巴却因为耐药不能吃😿😿😿左边都是空壳子哦，感觉很可爱捏😽 https://t.co/wkTKi2xdEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 60,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 124
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

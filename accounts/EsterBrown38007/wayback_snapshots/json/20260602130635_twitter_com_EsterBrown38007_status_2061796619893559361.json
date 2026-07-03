@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061737240657846765",
+    "created_at": "2026-06-02T13:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061796619893559361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018993147066368001",
+          "start": 0,
+          "username": "Maxtj1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061796619893559361",
+    "in_reply_to_user_id": "2018993147066368001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061796407758262613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxtj1v 蓝色小胶囊可爱捏，由于我是只吃粉末所以胶囊壳全被我收藏起来啦🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061737240657846765",
+        "created_at": "2026-06-02T13:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061796619893559361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018993147066368001",
+              "start": 0,
+              "username": "Maxtj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061796619893559361",
+        "in_reply_to_user_id": "2018993147066368001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061796407758262613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxtj1v 蓝色小胶囊可爱捏，由于我是只吃粉末所以胶囊壳全被我收藏起来啦🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018993147066368001",
+        "conversation_id": "2061737240657846765",
+        "created_at": "2026-06-02T13:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061796407758262613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061796407758262613",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061737240657846765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 一直都很喜欢加吧的配色还有作用_(:з」∠)_祝你拥有一个愉快的夜晚🌙٩(๑^o^๑)۶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09.3.7 / OD / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 45,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 84
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T10:21:37.000Z",
+        "description": "10/169(?)/49/side🌈 在网上是一个贱贱的臭屌丝 当然现实中也是求大家不要真实我呀 喜欢我的人可以来找我交友了，当然讨厌我的人也可以😈也可以把我当树洞喵 我会尽力的…",
+        "id": "2018993147066368001",
+        "location": "梦境",
+        "name": "Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056231377109139456/wofZmZPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 113,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 365
+        },
+        "username": "Maxtj1v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2059955162639393153",
+    "created_at": "2026-05-30T06:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060616080188719268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        },
+        {
+          "end": 29,
+          "id": "2051188013619875840",
+          "start": 15,
+          "username": "yukimaru_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060616080188719268",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059973951594606736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 @yukimaru_suki 捉素批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2059955162639393153",
+        "created_at": "2026-05-30T06:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060616080188719268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 29,
+              "id": "2051188013619875840",
+              "start": 15,
+              "username": "yukimaru_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060616080188719268",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059973951594606736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 @yukimaru_suki 捉素批"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2059955162639393153",
+        "created_at": "2026-05-28T12:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059973951594606736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051188013619875840",
+              "start": 0,
+              "username": "yukimaru_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059973951594606736",
+        "in_reply_to_user_id": "2051188013619875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059955162639393153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukimaru_suki 好帅的教主我喜欢这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7/OD/宅逼且社交孤儿/很温良接受程度很高/欢迎找我互fo聊天",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059562968971653121/Jr2Ciiee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 24,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 160,
+          "like_count": 6650,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 852
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T06:34:28.000Z",
+        "description": "中国语/日本語 /20⬆️/od/缓慢治疗精神疾病中/cp暴言中/fo会查成分",
+        "id": "2051188013619875840",
+        "name": "苦情剧又该我上演",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059458181710192640/SCSuqh8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 74,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 210
+        },
+        "username": "yukimaru_suki",
+        "verified": false
+      }
+    ]
+  }
+}

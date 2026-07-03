@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2065793737629073716",
+    "created_at": "2026-06-14T03:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065993584025932250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060006148087181312",
+          "start": 0,
+          "username": "tristeza226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065993584025932250",
+    "in_reply_to_user_id": "2060006148087181312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065793737629073716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tristeza226 你这家伙到底囤了多少药！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065793717244682240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsscNeaYAAI3SO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2065793737629073716",
+        "created_at": "2026-06-14T03:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065993584025932250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060006148087181312",
+              "start": 0,
+              "username": "tristeza226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065993584025932250",
+        "in_reply_to_user_id": "2060006148087181312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065793737629073716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tristeza226 你这家伙到底囤了多少药！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065793717244682240"
+          ]
+        },
+        "author_id": "2060006148087181312",
+        "conversation_id": "2065793737629073716",
+        "created_at": "2026-06-13T13:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065793737629073716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nuJSwNVqp0",
+              "end": 26,
+              "expanded_url": "https://x.com/tristeza226/status/2065793737629073716/photo/1",
+              "media_key": "3_2065793717244682240",
+              "start": 3,
+              "url": "https://t.co/nuJSwNVqp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065793737629073716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客返 https://t.co/nuJSwNVqp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 166,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 320
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2063537080979059147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 130,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 107
+        },
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

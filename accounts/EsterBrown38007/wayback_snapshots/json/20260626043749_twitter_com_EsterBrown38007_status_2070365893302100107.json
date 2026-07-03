@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2068972060920131686",
+    "created_at": "2026-06-26T04:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070365893302100107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888199914548822016",
+          "start": 0,
+          "username": "hiroi_kikuri00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070365893302100107",
+    "in_reply_to_user_id": "1888199914548822016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068972060920131686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroi_kikuri00 笑死我了还有几个回头看你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2110,
+        "media_key": "3_2068972030838624256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ3GaRa0AAYrCU.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1487,
+        "media_key": "3_2068972045367746560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ3HQZboAATG9Y.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2068972060920131686",
+        "created_at": "2026-06-26T04:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070365893302100107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888199914548822016",
+              "start": 0,
+              "username": "hiroi_kikuri00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070365893302100107",
+        "in_reply_to_user_id": "1888199914548822016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068972060920131686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroi_kikuri00 笑死我了还有几个回头看你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068972030838624256",
+            "3_2068972045367746560"
+          ]
+        },
+        "author_id": "1888199914548822016",
+        "conversation_id": "2068972060920131686",
+        "created_at": "2026-06-22T08:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068972060920131686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr8mWFNoW3",
+              "end": 44,
+              "expanded_url": "https://x.com/hiroi_kikuri00/status/2068972060920131686/photo/1",
+              "media_key": "3_2068972030838624256",
+              "start": 21,
+              "url": "https://t.co/mr8mWFNoW3"
+            },
+            {
+              "display_url": "pic.x.com/mr8mWFNoW3",
+              "end": 44,
+              "expanded_url": "https://x.com/hiroi_kikuri00/status/2068972060920131686/photo/1",
+              "media_key": "3_2068972045367746560",
+              "start": 21,
+              "url": "https://t.co/mr8mWFNoW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068972060920131686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精衛半日遊（\n\n話說為什麼這麼多晶格🙀🙀 https://t.co/mr8mWFNoW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 236,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T12:16:20.000Z",
+        "description": "這裏是文魚♥~ 叫我文魚/さかな/三文魚都可以喔 \n\n廣井きくり推し❤️❤️\n\nINFP/不鍵政/末世浪漫主義/fo我必回~~",
+        "id": "1888199914548822016",
+        "location": "FOLT",
+        "name": "魚文魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042950341457776642/GcKDKQWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 197,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "hiroi_kikuri00",
+        "verified": true
+      }
+    ]
+  }
+}

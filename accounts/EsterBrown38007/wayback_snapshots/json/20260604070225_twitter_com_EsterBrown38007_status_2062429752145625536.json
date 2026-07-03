@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061766904382136428",
+    "created_at": "2026-06-04T07:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062429752145625536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018993147066368001",
+          "start": 0,
+          "username": "Maxtj1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062429752145625536",
+    "in_reply_to_user_id": "2018993147066368001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062402021265944611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxtj1v 本来就厌学听完这个消息感觉直接厌世了🙄🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061766904382136428",
+        "created_at": "2026-06-04T07:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062429752145625536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018993147066368001",
+              "start": 0,
+              "username": "Maxtj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062429752145625536",
+        "in_reply_to_user_id": "2018993147066368001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062402021265944611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxtj1v 本来就厌学听完这个消息感觉直接厌世了🙄🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018993147066368001",
+        "conversation_id": "2061766904382136428",
+        "created_at": "2026-06-04T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062402021265944611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062402021265944611",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061766904382136428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 有点像我为了不上政治课请一周假然后政治老师有事把课全部排在下一周🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 77,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 144
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T10:21:37.000Z",
+        "description": "10/169(?)/49/side🌈 在网上是一个贱贱的臭屌丝 当然现实中也是求大家不要真实我呀 喜欢我的人可以来找我交友了，当然讨厌我的人也可以😈也可以把我当树洞喵 我会尽力的…",
+        "id": "2018993147066368001",
+        "location": "梦境",
+        "name": "Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056231377109139456/wofZmZPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 114,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 385
+        },
+        "username": "Maxtj1v",
+        "verified": false
+      }
+    ]
+  }
+}

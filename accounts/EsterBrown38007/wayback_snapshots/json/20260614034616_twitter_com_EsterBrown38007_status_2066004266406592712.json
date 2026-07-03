@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2065452653677789423",
+    "created_at": "2026-06-14T03:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066004266406592712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1632765156244738048",
+          "start": 0,
+          "username": "xiaotunsalutee"
+        },
+        {
+          "end": 31,
+          "id": "1755664020944941056",
+          "start": 16,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066004266406592712",
+    "in_reply_to_user_id": "1632765156244738048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065905746123039003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotunsalutee @Korewoizontoyo 耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2065452653677789423",
+        "created_at": "2026-06-14T03:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066004266406592712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1632765156244738048",
+              "start": 0,
+              "username": "xiaotunsalutee"
+            },
+            {
+              "end": 31,
+              "id": "1755664020944941056",
+              "start": 16,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066004266406592712",
+        "in_reply_to_user_id": "1632765156244738048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065905746123039003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotunsalutee @Korewoizontoyo 耍起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632765156244738048",
+        "conversation_id": "2065452653677789423",
+        "created_at": "2026-06-13T21:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065905746123039003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065905746123039003",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065452653677789423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo o起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 167,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 325
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:28:52.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "id": "1632765156244738048",
+        "location": "异世界",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 189,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 247
+        },
+        "username": "xiaotunsalutee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。可以互fo，我会查成分回关。",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2058636529761964280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 351,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 390
+        },
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072546685914698080",
+    "created_at": "2026-07-02T05:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072546685914698080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008589299659481088",
+          "start": 3,
+          "username": "TuT111500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072546685914698080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072541363623883245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuT111500: 妓院空荡荡，婊子在人间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072546685914698080",
+        "created_at": "2026-07-02T05:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072546685914698080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008589299659481088",
+              "start": 3,
+              "username": "TuT111500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072546685914698080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072541363623883245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuT111500: 妓院空荡荡，婊子在人间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2072541363623883245",
+        "created_at": "2026-07-02T04:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072541363623883245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072541363623883245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妓院空荡荡，婊子在人间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "活到18歲",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 250,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066198202106384384/T0JkbKkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 31,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

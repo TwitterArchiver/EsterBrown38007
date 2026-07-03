@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2067558503829639326",
+    "created_at": "2026-06-18T11:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067576220909469835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954524887454011392",
+          "start": 0,
+          "username": "thexiexx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067576220909469835",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067558503829639326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thexiexx ˶&gt;ᗜ&lt;˶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067558074664304640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFxHVDbQAASfTe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067558126635851776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFxKWqaIAAYbB4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2067558503829639326",
+        "created_at": "2026-06-18T11:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067576220909469835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067576220909469835",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067558503829639326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx ˶&gt;ᗜ&lt;˶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067558074664304640",
+            "3_2067558126635851776"
+          ]
+        },
+        "author_id": "1954524887454011392",
+        "conversation_id": "2067558503829639326",
+        "created_at": "2026-06-18T10:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067558503829639326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6Xf5uZUig",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx/status/2067558503829639326/photo/1",
+              "media_key": "3_2067558074664304640",
+              "start": 30,
+              "url": "https://t.co/N6Xf5uZUig"
+            },
+            {
+              "display_url": "pic.x.com/N6Xf5uZUig",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx/status/2067558503829639326/photo/1",
+              "media_key": "3_2067558126635851776",
+              "start": 30,
+              "url": "https://t.co/N6Xf5uZUig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067558503829639326",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007\n开奖了恭喜获得鬼画符一张 https://t.co/N6Xf5uZUig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "Kimka",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 214,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 394
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 488,
+          "like_count": 3543,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2944
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

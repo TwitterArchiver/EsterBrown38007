@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2056403053918797900",
+    "created_at": "2026-05-18T18:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056446803709681756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1049715364853141509",
+          "start": 0,
+          "username": "rampaula632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056446803709681756",
+    "in_reply_to_user_id": "1049715364853141509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056403053918797900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rampaula632 看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2056403045588848640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInPrLda0AAhdu_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1516,
+        "media_key": "3_2056403045593026560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInPrLeakAAwjwP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2056403053918797900",
+        "created_at": "2026-05-18T18:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056446803709681756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1049715364853141509",
+              "start": 0,
+              "username": "rampaula632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056446803709681756",
+        "in_reply_to_user_id": "1049715364853141509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056403053918797900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rampaula632 看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056403045588848640",
+            "3_2056403045593026560"
+          ]
+        },
+        "author_id": "1049715364853141509",
+        "conversation_id": "2056403053918797900",
+        "created_at": "2026-05-18T15:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056403053918797900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YblFOB9PPB",
+              "end": 41,
+              "expanded_url": "https://x.com/rampaula632/status/2056403053918797900/photo/1",
+              "media_key": "3_2056403045588848640",
+              "start": 18,
+              "url": "https://t.co/YblFOB9PPB"
+            },
+            {
+              "display_url": "pic.x.com/YblFOB9PPB",
+              "end": 41,
+              "expanded_url": "https://x.com/rampaula632/status/2056403053918797900/photo/1",
+              "media_key": "3_2056403045593026560",
+              "start": 18,
+              "url": "https://t.co/YblFOB9PPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056403053918797900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10344,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 203,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "真的给b看 不信你试试 反正不要🚪 https://t.co/YblFOB9PPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "Ester Brown",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-09T17:37:00.000Z",
+        "description": "每天更新 感谢你们的喜欢  （不是粉丝不回复）",
+        "id": "1049715364853141509",
+        "name": "杨莉萱",
+        "pinned_tweet_id": "2056403053918797900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056219066688487424/8g45tLK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1125,
+          "like_count": 6167,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 772
+        },
+        "username": "rampaula632",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2067501368768868700",
+    "created_at": "2026-06-18T18:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067677765764272148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130042378545446912",
+          "start": 0,
+          "username": "Magicatttt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067677765764272148",
+    "in_reply_to_user_id": "1130042378545446912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067677660172694010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magicatttt_ 兄弟抱一下😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2067501368768868700",
+        "created_at": "2026-06-18T18:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067677765764272148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130042378545446912",
+              "start": 0,
+              "username": "Magicatttt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067677765764272148",
+        "in_reply_to_user_id": "1130042378545446912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067677660172694010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magicatttt_ 兄弟抱一下😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130042378545446912",
+        "conversation_id": "2067501368768868700",
+        "created_at": "2026-06-18T18:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067677660172694010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067677660172694010",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067677417712595425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 好！上学辛苦了诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "Kimka",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 233,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 406
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T09:27:53.000Z",
+        "description": "20 ↓ ｜画画欧弟碎碎念｜直接关注=喜欢，，｜我很抱歉这一切",
+        "id": "1130042378545446912",
+        "name": "对我言听计从",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067125158629044224/jyFSv9Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 23,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 49
+        },
+        "username": "Magicatttt_",
+        "verified": false
+      }
+    ]
+  }
+}

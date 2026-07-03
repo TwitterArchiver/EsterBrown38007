@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2065701654331273244",
+    "created_at": "2026-06-13T07:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065702085103178155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065372497403674624",
+          "start": 0,
+          "username": "Huhio3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065702085103178155",
+    "in_reply_to_user_id": "2065372497403674624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065701654331273244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhio3i 我的小号三四周了还没解。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2065701654331273244",
+        "created_at": "2026-06-13T07:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065702085103178155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065372497403674624",
+              "start": 0,
+              "username": "Huhio3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065702085103178155",
+        "in_reply_to_user_id": "2065372497403674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065701654331273244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhio3i 我的小号三四周了还没解。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065372497403674624",
+        "conversation_id": "2065701654331273244",
+        "created_at": "2026-06-13T07:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065701654331273244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065701654331273244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x对我好狠，ghostban也不显示时间限制，非常玄学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064452690810433536/quxK-g3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 163,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 300
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被👻ban了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2065697942468808793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065385254253363201/NTQf7ccQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 25,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "Huhio3i",
+        "verified": false
+      }
+    ]
+  }
+}

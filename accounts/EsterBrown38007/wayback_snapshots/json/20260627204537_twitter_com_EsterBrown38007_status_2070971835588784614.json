@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2070733529206735088",
+    "created_at": "2026-06-27T20:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070971835588784614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070971835588784614",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070733529206735088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini 昨天的时候那医生问我每天都在焦虑什么呢，我说学习啊，高考啊，以后工作什么的，他说那可以休息呀，我说我明年高考了啊，他说可以不高考，我说那我以后工作怎么办，他说我也可以不工作。妈的那我不工作她养我吗，我真的怀疑这些医生是不是脑残"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2070733529206735088",
+        "created_at": "2026-06-27T20:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070971835588784614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070971835588784614",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070733529206735088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 昨天的时候那医生问我每天都在焦虑什么呢，我说学习啊，高考啊，以后工作什么的，他说那可以休息呀，我说我明年高考了啊，他说可以不高考，我说那我以后工作怎么办，他说我也可以不工作。妈的那我不工作她养我吗，我真的怀疑这些医生是不是脑残"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2070733529206735088",
+        "created_at": "2026-06-27T04:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070733529206735088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070733529206735088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1065,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好搞笑啊，精神科的医生诶，拿她的经历去打压我的经历，拿她的痛苦去打压我的痛苦，痛苦是可以比较的吗…?你的经历，只有你知道，同样，我的经历，只有我知道我很痛苦，我活不下去，凭什么要做对比啊，为什么啊，我凭什么要活下去，能不能给我个理由，我就是活不下去了啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "天国",
+        "name": "別把我留在沒有你的地獄",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070690358397489152/5XIbUpW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 238,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 788,
+          "like_count": 5716,
+          "listed_count": 4,
+          "media_count": 691,
+          "tweet_count": 5658
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2066393336777515280",
+    "created_at": "2026-06-15T13:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066520497404424458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018993147066368001",
+          "start": 0,
+          "username": "Maxtj1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066520497404424458",
+    "in_reply_to_user_id": "2018993147066368001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066485322964500912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxtj1v 所以我料到200%会是这个结果然后我就把药交给同学了，其实也没有交给，不过我三周没有上学所以我学校这边的快递都会让他帮我拿，正好搁他那诡异的凑齐了普瑞巴林和巴氯芬和加巴喷丁，真的好诡异，他给我发了一张图片我都想笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2066393336777515280",
+        "created_at": "2026-06-15T13:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066520497404424458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018993147066368001",
+              "start": 0,
+              "username": "Maxtj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066520497404424458",
+        "in_reply_to_user_id": "2018993147066368001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066485322964500912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxtj1v 所以我料到200%会是这个结果然后我就把药交给同学了，其实也没有交给，不过我三周没有上学所以我学校这边的快递都会让他帮我拿，正好搁他那诡异的凑齐了普瑞巴林和巴氯芬和加巴喷丁，真的好诡异，他给我发了一张图片我都想笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018993147066368001",
+        "conversation_id": "2066393336777515280",
+        "created_at": "2026-06-15T11:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066485322964500912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066485322964500912",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066393336777515280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 我已经失败了😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 185,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 369
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T10:21:37.000Z",
+        "description": "🌈 在网上是一个贱贱的臭屌丝 现实中也是求大家不要真实我 记性很差 说话有时候会不清不楚  喜欢我的人可以来找我交友了 讨厌我的人也可以",
+        "id": "2018993147066368001",
+        "location": "你嘴巴里",
+        "name": "Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064053750659235840/CO0rIyVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 87,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 546
+        },
+        "username": "Maxtj1v",
+        "verified": false
+      }
+    ]
+  }
+}

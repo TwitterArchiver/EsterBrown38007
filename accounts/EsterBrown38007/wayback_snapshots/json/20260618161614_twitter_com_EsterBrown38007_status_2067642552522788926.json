@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2067501368768868700",
+    "created_at": "2026-06-18T16:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067642552522788926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063952407365828608",
+          "start": 0,
+          "username": "mmrnadna2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067642552522788926",
+    "in_reply_to_user_id": "2063952407365828608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067642377091862528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmrnadna2 为了下一次更爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2067501368768868700",
+        "created_at": "2026-06-18T16:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067642552522788926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063952407365828608",
+              "start": 0,
+              "username": "mmrnadna2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642552522788926",
+        "in_reply_to_user_id": "2063952407365828608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067642377091862528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmrnadna2 为了下一次更爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063952407365828608",
+        "conversation_id": "2067501368768868700",
+        "created_at": "2026-06-18T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067642377091862528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642377091862528",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067641786135449803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 饱饱这么厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "永遠原諒你的壞",
+        "id": "2039398734962761728",
+        "name": "Kimka",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 227,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 399
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T11:55:00.000Z",
+        "description": "大号@mmrnadna\n小小号@Mak1287267\n欢迎聊天๐·°(৹˃̵﹏˂̵৹)°·๐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "mmrnadna"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Mak1287267"
+              }
+            ]
+          }
+        },
+        "id": "2063952407365828608",
+        "location": "中华人民共和国",
+        "name": "断桥边看雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064001354583224320/8HxtONBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 10,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "mmrnadna2",
+        "verified": false
+      }
+    ]
+  }
+}

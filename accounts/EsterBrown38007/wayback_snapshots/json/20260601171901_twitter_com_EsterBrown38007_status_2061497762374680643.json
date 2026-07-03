@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2061469346661339144",
+    "created_at": "2026-06-01T17:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061497762374680643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058574118107439104",
+          "start": 0,
+          "username": "FFFFLLLLUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061497762374680643",
+    "in_reply_to_user_id": "2058574118107439104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061492656862335289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFFFLLLLUG 好哦，谢谢解答❤️😋配魔爪好像也没什么影响，我要爽飞了现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2061469346661339144",
+        "created_at": "2026-06-01T17:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061497762374680643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058574118107439104",
+              "start": 0,
+              "username": "FFFFLLLLUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061497762374680643",
+        "in_reply_to_user_id": "2058574118107439104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061492656862335289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFFFLLLLUG 好哦，谢谢解答❤️😋配魔爪好像也没什么影响，我要爽飞了现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058574118107439104",
+        "conversation_id": "2061469346661339144",
+        "created_at": "2026-06-01T16:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061492656862335289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061492656862335289",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061485541674381386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 只吃粉末的话试试用药用糯米纸袋吧？但是也别在嘴里停太久 会化\n你想要镇静抗焦虑的话咖啡因喝多了会有一点影响\n换别的普通碳酸饮料可能好点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7 / OD/ 宅逼且社交孤儿 / 很温良 / 欢迎找我互fo聊天 /直fo代表喜欢你",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061398553424244736/nl4cDmzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 27,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T15:41:51.000Z",
+        "description": "账户……爆炸了…………\n此账户为戏仿账户 主要用于自嘲与自我模仿",
+        "id": "2058574118107439104",
+        "location": "地底 像蚯蚓那样扭动着生存",
+        "name": "(._.)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058574748662259712/ySBPrWZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 105,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 113
+        },
+        "username": "FFFFLLLLUG",
+        "verified": false
+      }
+    ]
+  }
+}

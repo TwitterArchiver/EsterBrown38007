@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2062894518803066948",
+    "created_at": "2026-06-06T04:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063117170331250901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1161138897566388224",
+          "start": 0,
+          "username": "Oatzo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063117170331250901",
+    "in_reply_to_user_id": "1161138897566388224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063116487058174278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oatzo1 哎，除了加巴无药🉑o了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2062894518803066948",
+        "created_at": "2026-06-06T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063117170331250901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1161138897566388224",
+              "start": 0,
+              "username": "Oatzo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063117170331250901",
+        "in_reply_to_user_id": "1161138897566388224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063116487058174278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oatzo1 哎，除了加巴无药🉑o了😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161138897566388224",
+        "conversation_id": "2062894518803066948",
+        "created_at": "2026-06-06T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063116487058174278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063116487058174278",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062894518803066948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 橘子姐别o加巴了，我每次都是医疗用量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "♀ / 09 / OD💊 / 宅逼且社交孤儿 / 很温良友好一切 / 欢迎同类互fo喵 / 直fo代表喜欢你（求回fo喵）=ᗜωᗜ=",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "pinned_tweet_id": "2062900580948103361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063116113156927488/RJFp8gPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 95,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 176
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T04:54:20.000Z",
+        "description": "所在的高度让他们目空一切",
+        "id": "1161138897566388224",
+        "name": "Oatzo",
+        "pinned_tweet_id": "1975975549521768592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025954287923429376/2_bXnbGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 92,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 525
+        },
+        "username": "Oatzo1",
+        "verified": false
+      }
+    ]
+  }
+}

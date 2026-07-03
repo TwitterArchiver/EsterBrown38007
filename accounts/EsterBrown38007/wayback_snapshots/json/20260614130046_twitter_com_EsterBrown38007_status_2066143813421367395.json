@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2066091946351935505",
+    "created_at": "2026-06-14T13:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066143813421367395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018993147066368001",
+          "start": 0,
+          "username": "Maxtj1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066143813421367395",
+    "in_reply_to_user_id": "2018993147066368001",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066135905346437212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxtj1v bz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T13:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066143813421367395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018993147066368001",
+              "start": 0,
+              "username": "Maxtj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066143813421367395",
+        "in_reply_to_user_id": "2018993147066368001",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066135905346437212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxtj1v bz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018993147066368001",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T12:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066135905346437212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066135905346437212",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066091946351935505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 bz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 177,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 358
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T10:21:37.000Z",
+        "description": "🌈 在网上是一个贱贱的臭屌丝 现实中也是求大家不要真实我 记性很差 说话有时候会不清不楚  喜欢我的人可以来找我交友了 讨厌我的人也可以",
+        "id": "2018993147066368001",
+        "location": "你嘴巴里",
+        "name": "Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064053750659235840/CO0rIyVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 85,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 539
+        },
+        "username": "Maxtj1v",
+        "verified": false
+      }
+    ]
+  }
+}

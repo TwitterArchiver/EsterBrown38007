@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2065163344521351581",
+    "created_at": "2026-06-11T20:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T21:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065163344521351581"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065163344521351581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从小就很喜欢听纯音乐吧，但是被同学骂听纯音乐的都很唐之后删了歌单里所有的纯音乐，现在想想好后悔因为有的歌我找不到了。我也真是的为什么要管他们啊TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2065163344521351581",
+        "created_at": "2026-06-11T20:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065163344521351581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065163344521351581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小就很喜欢听纯音乐吧，但是被同学骂听纯音乐的都很唐之后删了歌单里所有的纯音乐，现在想想好后悔因为有的歌我找不到了。我也真是的为什么要管他们啊TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 我是社交孤儿可以来找我聊天 / 互fo查成分都会回的 / 很温良且傻，所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064452690810433536/quxK-g3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 158,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 261
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}
