@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072956419448746416",
+    "created_at": "2026-07-03T12:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073018708331798752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "755770812586745856",
+          "start": 0,
+          "username": "Jim75774261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073018708331798752",
+    "in_reply_to_user_id": "755770812586745856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073017769587568832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jim75774261 那怪不得医生给我开劳拉。。我都不知道睡眠问题还有这么多分类讲究呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072956419448746416",
+        "created_at": "2026-07-03T12:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073018708331798752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "755770812586745856",
+              "start": 0,
+              "username": "Jim75774261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073018708331798752",
+        "in_reply_to_user_id": "755770812586745856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073017769587568832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jim75774261 那怪不得医生给我开劳拉。。我都不知道睡眠问题还有这么多分类讲究呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "755770812586745856",
+        "conversation_id": "2072956419448746416",
+        "created_at": "2026-07-03T12:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073017769587568832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073017769587568832",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073015914556182855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 斯诺思是短效 对入睡困难的 你要是多梦 早醒 那就要长效镇静  劳拉这类的 再叠别的药属于是超级加倍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 263,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-20T14:26:18.000Z",
+        "description": "",
+        "id": "755770812586745856",
+        "name": "Jim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373988823185559555/_rymtV3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 483,
+          "like_count": 28389,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1067
+        },
+        "url": "",
+        "username": "Jim75774261",
+        "verified": true
+      }
+    ]
+  }
+}

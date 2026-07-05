@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072995515986567168"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072995518402482614",
+    "created_at": "2026-07-03T10:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072995518402482614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UKyAv23ql1",
+          "end": 29,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2072995518402482614/photo/1",
+          "media_key": "3_2072995515986567168",
+          "start": 6,
+          "url": "https://t.co/UKyAv23ql1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072995518402482614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪来的句号 https://t.co/UKyAv23ql1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2072995515986567168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTCcEdbYAAwEb6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072995515986567168"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072995518402482614",
+        "created_at": "2026-07-03T10:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072995518402482614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UKyAv23ql1",
+              "end": 29,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2072995518402482614/photo/1",
+              "media_key": "3_2072995515986567168",
+              "start": 6,
+              "url": "https://t.co/UKyAv23ql1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072995518402482614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪来的句号 https://t.co/UKyAv23ql1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 262,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

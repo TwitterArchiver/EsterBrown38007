@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072687606714995169",
+    "created_at": "2026-07-02T14:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072691996800823659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066389067080867840",
+          "start": 0,
+          "username": "Huhuixh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072691996800823659",
+    "in_reply_to_user_id": "2066389067080867840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072687606714995169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhuixh 6.26之前我怕网上禁售这个一次性买了30盒，泻药吃到吐了这下要"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072687606714995169].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072687606714995169",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072687606714995169"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072687606714995169",
+        "created_at": "2026-07-02T14:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072691996800823659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066389067080867840",
+              "start": 0,
+              "username": "Huhuixh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072691996800823659",
+        "in_reply_to_user_id": "2066389067080867840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072687606714995169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhuixh 6.26之前我怕网上禁售这个一次性买了30盒，泻药吃到吐了这下要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 255,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T05:16:21.000Z",
+        "description": "＝hh，第一世@Huhiosc3x 这个号也被禁评了，回复用转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2066389067080867840",
+        "name": "Hihi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072326977055551488/6vcU461U_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 32,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Huhuixh",
+        "verified": false
+      }
+    ]
+  }
+}

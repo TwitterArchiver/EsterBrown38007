@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2072710671062675617",
+    "created_at": "2026-07-03T12:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073021083465425376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260985034007171073",
+          "start": 0,
+          "username": "zeT6ruXzh2aeZ1M"
+        },
+        {
+          "end": 32,
+          "id": "1632765156244738048",
+          "start": 17,
+          "username": "xiaotunsalutee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073021083465425376",
+    "in_reply_to_user_id": "1260985034007171073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073020563736682665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeT6ruXzh2aeZ1M @xiaotunsalutee 卧槽那我，低调，低调一点，💀💀🏳️哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072710671062675617",
+        "created_at": "2026-07-03T12:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073021083465425376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260985034007171073",
+              "start": 0,
+              "username": "zeT6ruXzh2aeZ1M"
+            },
+            {
+              "end": 32,
+              "id": "1632765156244738048",
+              "start": 17,
+              "username": "xiaotunsalutee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073021083465425376",
+        "in_reply_to_user_id": "1260985034007171073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073020563736682665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeT6ruXzh2aeZ1M @xiaotunsalutee 卧槽那我，低调，低调一点，💀💀🏳️哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260985034007171073",
+        "conversation_id": "2072710671062675617",
+        "created_at": "2026-07-03T12:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073020563736682665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            },
+            {
+              "end": 32,
+              "id": "1632765156244738048",
+              "start": 17,
+              "username": "xiaotunsalutee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073020563736682665",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072710671062675617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 @xiaotunsalutee 晶哥是真会监视手机的不开玩笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 264,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-14T17:27:35.000Z",
+        "description": "希望结交一些喜欢旅游的朋友，目前想去英国，日本，澳大利亚。不过还在被生活打压折磨中。",
+        "id": "1260985034007171073",
+        "location": "あっ",
+        "name": "Urkii",
+        "pinned_tweet_id": "2072504716526026758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833056739614412800/qdL7_DHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 60,
+          "like_count": 287,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "zeT6ruXzh2aeZ1M",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:28:52.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "id": "1632765156244738048",
+        "location": "异世界",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 200,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "xiaotunsalutee",
+        "verified": false
+      }
+    ]
+  }
+}
