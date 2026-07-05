@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-05T06:27:47",
+  "last_updated": "2026-07-05T06:49:46",
   "html": {
     "https://web.archive.org/web/20260527115419if_/https://twitter.com/EsterBrown38007/status/2059604108781519215": {
       "status": "done",
@@ -3893,9 +3893,9 @@
       "referenced_by": [
         "20260603112716_twitter_com_EsterBrown38007_status_2062134013742272974.json"
       ],
-      "last_updated": "2026-07-03T08:58:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603112716im_/https://pbs.twimg.com/profile_images/2045878688731045888/btExTavR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2bea8ef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:47:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603112716im_/https://pbs.twimg.com/profile_images/2045878688731045888/btExTavR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e17c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1543883849305886721/6nYk6uhZ_normal.jpg": {
       "status": "done",
@@ -4087,9 +4087,9 @@
       "referenced_by": [
         "20260606032246_twitter_com_EsterBrown38007_status_2063099249299218820.json"
       ],
-      "last_updated": "2026-07-03T08:58:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606032246im_/https://pbs.twimg.com/profile_images/2053823374212603904/AnPkO45B_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2bea9cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:47:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606032246im_/https://pbs.twimg.com/profile_images/2053823374212603904/AnPkO45B_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e3bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg": {
       "status": "done",
@@ -4181,9 +4181,9 @@
       "referenced_by": [
         "20260606044330_twitter_com_EsterBrown38007_status_2063119569016016931.json"
       ],
-      "last_updated": "2026-07-03T08:58:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606044330im_/https://pbs.twimg.com/profile_images/2061959120962334721/HSMKLOms_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad3d9d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:47:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606044330im_/https://pbs.twimg.com/profile_images/2061959120962334721/HSMKLOms_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e1f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2061844132113592320/kJdB9BkI_normal.jpg": {
       "status": "done",
@@ -4204,9 +4204,9 @@
       "referenced_by": [
         "20260606072715_twitter_com_EsterBrown38007_status_2063160776228303078.json"
       ],
-      "last_updated": "2026-07-03T08:58:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606072715im_/https://pbs.twimg.com/profile_images/2062343530908188672/0K7y4XPt_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad64c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606072715im_/https://pbs.twimg.com/profile_images/2062343530908188672/0K7y4XPt_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e2d20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg": {
       "status": "done",
@@ -4473,9 +4473,9 @@
       "referenced_by": [
         "20260610100453_twitter_com_EsterBrown38007_status_2064649997514428435.json"
       ],
-      "last_updated": "2026-07-03T08:58:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610100453im_/https://pbs.twimg.com/profile_images/2064196569235357696/-38m-Eg2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad3d610>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610100453im_/https://pbs.twimg.com/profile_images/2064196569235357696/-38m-Eg2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d015af0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg": {
       "status": "done",
@@ -4490,9 +4490,9 @@
       "referenced_by": [
         "20260610125726_twitter_com_EsterBrown38007_status_2064693420539683056.json"
       ],
-      "last_updated": "2026-07-03T08:58:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610125726im_/https://pbs.twimg.com/profile_images/2063948486614392833/paCVcEyk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad65b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610125726im_/https://pbs.twimg.com/profile_images/2063948486614392833/paCVcEyk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d017e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2061832735367266304/d-rr4W-T_normal.jpg": {
       "status": "done",
@@ -4553,9 +4553,9 @@
         "20260612114221_twitter_com_EsterBrown38007_status_2065399303808643518.json",
         "20260612123035_twitter_com_EsterBrown38007_status_2065411438714429705.json"
       ],
-      "last_updated": "2026-07-03T08:58:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612123035im_/https://pbs.twimg.com/profile_images/2061398375631867904/xhA376lS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad3ede0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612123035im_/https://pbs.twimg.com/profile_images/2061398375631867904/xhA376lS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d016ab0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg": {
       "status": "done",
@@ -4601,9 +4601,9 @@
         "20260613083516_twitter_com_EsterBrown38007_status_2065714607470350398.json",
         "20260614070230_twitter_com_EsterBrown38007_status_2066053652868141108.json"
       ],
-      "last_updated": "2026-07-03T08:58:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614070230im_/https://pbs.twimg.com/profile_images/2064032900392333312/lWpk-DP8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad65970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614070230im_/https://pbs.twimg.com/profile_images/2064032900392333312/lWpk-DP8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e2660>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg": {
       "status": "done",
@@ -4783,9 +4783,9 @@
       "referenced_by": [
         "20260613164939_twitter_com_EsterBrown38007_status_2065839025483845708.json"
       ],
-      "last_updated": "2026-07-03T08:58:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613164939im_/https://pbs.twimg.com/profile_images/1927275119644147712/fWcxbpMI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad3e630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613164939im_/https://pbs.twimg.com/profile_images/1927275119644147712/fWcxbpMI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d014140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2053290825770283008/wQjdEp61_normal.jpg": {
       "status": "done",
@@ -4842,9 +4842,9 @@
       "referenced_by": [
         "20260614034616_twitter_com_EsterBrown38007_status_2066004266406592712.json"
       ],
-      "last_updated": "2026-07-03T08:58:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614034616im_/https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad65700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614034616im_/https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d034230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg": {
       "status": "done",
@@ -4898,18 +4898,18 @@
       "referenced_by": [
         "20260614103235_twitter_com_EsterBrown38007_status_2066106520094622085.json"
       ],
-      "last_updated": "2026-07-03T08:58:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614103235im_/https://pbs.twimg.com/profile_images/2065051624377298944/Ebgkmpi0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad3d8e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614103235im_/https://pbs.twimg.com/profile_images/2065051624377298944/Ebgkmpi0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d016cc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2065404512945500160/rkjFQKqj_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260614104446_twitter_com_EsterBrown38007_status_2066109587481411812.json"
       ],
-      "last_updated": "2026-07-03T08:58:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614104446im_/https://pbs.twimg.com/profile_images/2065404512945500160/rkjFQKqj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2beab620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614104446im_/https://pbs.twimg.com/profile_images/2065404512945500160/rkjFQKqj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d037a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2060102615632080896/HimQUaKr_normal.jpg": {
       "status": "done",
@@ -5034,9 +5034,9 @@
         "20260618183446_twitter_com_EsterBrown38007_status_2067677417712595425.json",
         "20260618183609_twitter_com_EsterBrown38007_status_2067677765764272148.json"
       ],
-      "last_updated": "2026-07-03T08:58:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618183609im_/https://pbs.twimg.com/profile_images/2067125158629044224/jyFSv9Hc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2bea99a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618183609im_/https://pbs.twimg.com/profile_images/2067125158629044224/jyFSv9Hc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e3920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg": {
       "status": "done",
@@ -5058,9 +5058,9 @@
       "referenced_by": [
         "20260620005531_twitter_com_EsterBrown38007_status_2068135622934778179.json"
       ],
-      "last_updated": "2026-07-03T08:59:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620005531im_/https://pbs.twimg.com/profile_images/2067320228238024704/qz7oPP2f_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdd2ad13890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-05T06:48:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620005531im_/https://pbs.twimg.com/profile_images/2067320228238024704/qz7oPP2f_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d037320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg": {
       "status": "done",
@@ -5355,152 +5355,197 @@
       "last_updated": "2026-07-03T08:43:23"
     },
     "https://pbs.twimg.com/profile_images/1832578462164643840/ELvt_My1_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260702141554_twitter_com_EsterBrown38007_status_2072685702543020395.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:28"
     },
     "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260702141659_twitter_com_EsterBrown38007_status_2072685972450586989.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:48:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702141659im_/https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d017ad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260702143450_twitter_com_EsterBrown38007_status_2072690465795973123.json",
         "20260702155524_twitter_com_EsterBrown38007_status_2072710739794763809.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702155524im_/https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d0166f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2072326977055551488/6vcU461U_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260702144055_twitter_com_EsterBrown38007_status_2072691996800823659.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702144055im_/https://pbs.twimg.com/profile_images/2072326977055551488/6vcU461U_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d035ee0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260702171459_twitter_com_EsterBrown38007_status_2072730769450303838.json",
         "20260702174953_twitter_com_EsterBrown38007_status_2072739550598987813.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702174953im_/https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22e1e24e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1976300033340473347/WsaMZHYR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260702180710_twitter_com_EsterBrown38007_status_2072743900595491130.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:28"
     },
     "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703020037_twitter_com_EsterBrown38007_status_2072863048629698718.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:28"
     },
     "https://pbs.twimg.com/profile_images/2044266498173321216/b98Qhpg6_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703034006_twitter_com_EsterBrown38007_status_2072888085608816736.json",
         "20260704015537_twitter_com_EsterBrown38007_status_2073224177881157776.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704015537im_/https://pbs.twimg.com/profile_images/2044266498173321216/b98Qhpg6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d015880>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703054945_twitter_com_EsterBrown38007_status_2072920712311185796.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:28"
     },
     "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703084037_twitter_com_EsterBrown38007_status_2072963711996993877.json",
         "20260703084350_twitter_com_EsterBrown38007_status_2072964521048883689.json",
         "20260703091051_twitter_com_EsterBrown38007_status_2072971319956914473.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:29"
     },
     "https://pbs.twimg.com/profile_images/2049060648513134592/OF8Q7Sws_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703085711_twitter_com_EsterBrown38007_status_2072967881021849844.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703085711im_/https://pbs.twimg.com/profile_images/2049060648513134592/OF8Q7Sws_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d017830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703091102_twitter_com_EsterBrown38007_status_2072971364995350907.json",
         "20260703091930_twitter_com_EsterBrown38007_status_2072973496771334307.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:32"
     },
     "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703102114_twitter_com_EsterBrown38007_status_2072989034922791367.json",
         "20260703102116_twitter_com_EsterBrown38007_status_2072989041898013146.json",
         "20260704045313_twitter_com_EsterBrown38007_status_2073268874116759851.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:33"
     },
     "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703102114_twitter_com_EsterBrown38007_status_2072989034922791367.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:33"
     },
     "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703102236_twitter_com_EsterBrown38007_status_2072989375680696589.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:33"
     },
     "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703104201_twitter_com_EsterBrown38007_status_2072994262468407598.json",
         "20260703112807_twitter_com_EsterBrown38007_status_2073005863510663668.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:33"
     },
     "https://pbs.twimg.com/profile_images/1373988823185559555/_rymtV3v_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703120803_twitter_com_EsterBrown38007_status_2073015914556182855.json",
         "20260703121909_twitter_com_EsterBrown38007_status_2073018708331798752.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703121909im_/https://pbs.twimg.com/profile_images/1373988823185559555/_rymtV3v_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d037500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1833056739614412800/qdL7_DHw_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703122835_twitter_com_EsterBrown38007_status_2073021083465425376.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703122835im_/https://pbs.twimg.com/profile_images/1833056739614412800/qdL7_DHw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d054770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260703132606_twitter_com_EsterBrown38007_status_2073035556494405826.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:33"
     },
     "https://pbs.twimg.com/profile_images/1913327853686476800/0SNe-bqj_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703154006_twitter_com_EsterBrown38007_status_2073069280325943530.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703154006im_/https://pbs.twimg.com/profile_images/1913327853686476800/0SNe-bqj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d0360c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1404924053769441280/yHNMuxzt_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703155020_twitter_com_EsterBrown38007_status_2073071854412349679.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703155020im_/https://pbs.twimg.com/profile_images/1404924053769441280/yHNMuxzt_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd22d017cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260704015648_twitter_com_EsterBrown38007_status_2073224476075180540.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:47:33"
     },
     "https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260704015820_twitter_com_EsterBrown38007_status_2073224862580294025.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T06:49:46",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704015820if_/https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg",
+      "miss_count": 2
     }
   },
   "media": {
@@ -12090,7 +12135,7 @@
       "last_updated": "2026-07-05T06:16:43"
     },
     "20260702141554_twitter_com_EsterBrown38007_status_2072685702543020395.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12099,10 +12144,10 @@
           "https://pbs.twimg.com/profile_images/1832578462164643840/ELvt_My1_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:28"
     },
     "20260702141659_twitter_com_EsterBrown38007_status_2072685972450586989.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12111,10 +12156,10 @@
           "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260702143450_twitter_com_EsterBrown38007_status_2072690465795973123.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMOSaaVaMAARJPr.jpg"
@@ -12125,10 +12170,10 @@
           "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:32"
     },
     "20260702144055_twitter_com_EsterBrown38007_status_2072691996800823659.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12137,7 +12182,7 @@
           "https://pbs.twimg.com/profile_images/2072326977055551488/6vcU461U_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260702155507_twitter_com_EsterBrown38007_status_2072710671062675617.json": {
       "status": "done",
@@ -12153,7 +12198,7 @@
       "last_updated": "2026-07-05T06:16:44"
     },
     "20260702155524_twitter_com_EsterBrown38007_status_2072710739794763809.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12162,10 +12207,10 @@
           "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:32"
     },
     "20260702171459_twitter_com_EsterBrown38007_status_2072730769450303838.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12174,10 +12219,10 @@
           "https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260702174953_twitter_com_EsterBrown38007_status_2072739550598987813.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12186,10 +12231,10 @@
           "https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260702180710_twitter_com_EsterBrown38007_status_2072743900595491130.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12198,10 +12243,10 @@
           "https://pbs.twimg.com/profile_images/1976300033340473347/WsaMZHYR_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:28"
     },
     "20260703020037_twitter_com_EsterBrown38007_status_2072863048629698718.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMRABeKaUAAyLg3.jpg"
@@ -12212,7 +12257,7 @@
           "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:28"
     },
     "20260703021237_twitter_com_EsterBrown38007_status_2072866068205535351.json": {
       "status": "done",
@@ -12232,7 +12277,7 @@
       "last_updated": "2026-07-05T06:16:45"
     },
     "20260703034006_twitter_com_EsterBrown38007_status_2072888085608816736.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12241,10 +12286,10 @@
           "https://pbs.twimg.com/profile_images/2044266498173321216/b98Qhpg6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703054945_twitter_com_EsterBrown38007_status_2072920712311185796.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12254,7 +12299,7 @@
           "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:28"
     },
     "20260703055132_twitter_com_EsterBrown38007_status_2072921159763664988.json": {
       "status": "done",
@@ -12282,7 +12327,7 @@
       "last_updated": "2026-07-05T06:16:43"
     },
     "20260703084037_twitter_com_EsterBrown38007_status_2072963711996993877.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12291,10 +12336,10 @@
           "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:29"
     },
     "20260703084350_twitter_com_EsterBrown38007_status_2072964521048883689.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12303,10 +12348,10 @@
           "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:29"
     },
     "20260703085711_twitter_com_EsterBrown38007_status_2072967881021849844.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12315,10 +12360,10 @@
           "https://pbs.twimg.com/profile_images/2049060648513134592/OF8Q7Sws_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703091051_twitter_com_EsterBrown38007_status_2072971319956914473.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12328,10 +12373,10 @@
           "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:29"
     },
     "20260703091102_twitter_com_EsterBrown38007_status_2072971364995350907.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12340,10 +12385,10 @@
           "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:32"
     },
     "20260703091930_twitter_com_EsterBrown38007_status_2072973496771334307.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12352,10 +12397,10 @@
           "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:32"
     },
     "20260703102114_twitter_com_EsterBrown38007_status_2072989034922791367.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12365,10 +12410,10 @@
           "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703102116_twitter_com_EsterBrown38007_status_2072989041898013146.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12377,10 +12422,10 @@
           "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703102236_twitter_com_EsterBrown38007_status_2072989375680696589.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12389,10 +12434,10 @@
           "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703104201_twitter_com_EsterBrown38007_status_2072994262468407598.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12401,7 +12446,7 @@
           "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703104700_twitter_com_EsterBrown38007_status_2072995518402482614.json": {
       "status": "done",
@@ -12417,7 +12462,7 @@
       "last_updated": "2026-07-05T06:16:44"
     },
     "20260703112807_twitter_com_EsterBrown38007_status_2073005863510663668.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12426,7 +12471,7 @@
           "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703114329_twitter_com_EsterBrown38007_status_2073009732349317468.json": {
       "status": "done",
@@ -12442,7 +12487,7 @@
       "last_updated": "2026-07-05T06:16:44"
     },
     "20260703120803_twitter_com_EsterBrown38007_status_2073015914556182855.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12451,7 +12496,7 @@
           "https://pbs.twimg.com/profile_images/1373988823185559555/_rymtV3v_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:37"
     },
     "20260703120853_twitter_com_EsterBrown38007_status_2073016125634515097.json": {
       "status": "done",
@@ -12483,7 +12528,7 @@
       "last_updated": "2026-07-05T06:16:45"
     },
     "20260703121909_twitter_com_EsterBrown38007_status_2073018708331798752.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12492,7 +12537,7 @@
           "https://pbs.twimg.com/profile_images/1373988823185559555/_rymtV3v_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:37"
     },
     "20260703122014_twitter_com_EsterBrown38007_status_2073018982723199204.json": {
       "status": "done",
@@ -12508,7 +12553,7 @@
       "last_updated": "2026-07-05T06:16:44"
     },
     "20260703122835_twitter_com_EsterBrown38007_status_2073021083465425376.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12518,10 +12563,10 @@
           "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:39"
     },
     "20260703132606_twitter_com_EsterBrown38007_status_2073035556494405826.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12530,7 +12575,7 @@
           "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260703134300_twitter_com_EsterBrown38007_status_2073039809166368803.json": {
       "status": "done",
@@ -12590,7 +12635,7 @@
       "last_updated": "2026-07-05T06:16:44"
     },
     "20260703154006_twitter_com_EsterBrown38007_status_2073069280325943530.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12599,10 +12644,10 @@
           "https://pbs.twimg.com/profile_images/1913327853686476800/0SNe-bqj_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:40"
     },
     "20260703155020_twitter_com_EsterBrown38007_status_2073071854412349679.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12611,10 +12656,10 @@
           "https://pbs.twimg.com/profile_images/1404924053769441280/yHNMuxzt_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:37"
     },
     "20260704015537_twitter_com_EsterBrown38007_status_2073224177881157776.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12623,10 +12668,10 @@
           "https://pbs.twimg.com/profile_images/2044266498173321216/b98Qhpg6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260704015648_twitter_com_EsterBrown38007_status_2073224476075180540.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12635,10 +12680,10 @@
           "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260704015820_twitter_com_EsterBrown38007_status_2073224862580294025.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMWTBqrbAAAN65m.jpg"
@@ -12649,7 +12694,7 @@
           "https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:49:46"
     },
     "20260704030651_twitter_com_EsterBrown38007_status_2073242106412535898.json": {
       "status": "done",
@@ -12664,7 +12709,7 @@
       "last_updated": "2026-07-05T06:16:44"
     },
     "20260704045313_twitter_com_EsterBrown38007_status_2073268874116759851.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMW316TbwAAwOGI.jpg",
@@ -12676,7 +12721,7 @@
           "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T06:27:46"
+      "last_updated": "2026-07-05T06:47:33"
     },
     "20260704052742_twitter_com_EsterBrown38007_status_2073277550542123305.json": {
       "status": "done",
