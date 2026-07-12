@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075554667833249792"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2075554670584680664",
+    "created_at": "2026-07-10T12:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075554670584680664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AriA0ZoJDL",
+          "end": 29,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2075554670584680664/photo/1",
+          "media_key": "3_2075554667833249792",
+          "start": 6,
+          "url": "https://t.co/AriA0ZoJDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075554670584680664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(￣▼￣) https://t.co/AriA0ZoJDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075554667833249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Z-UAa0AAiGHX.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075554667833249792"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2075554670584680664",
+        "created_at": "2026-07-10T12:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075554670584680664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AriA0ZoJDL",
+              "end": 29,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2075554670584680664/photo/1",
+              "media_key": "3_2075554667833249792",
+              "start": 6,
+              "url": "https://t.co/AriA0ZoJDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075554670584680664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(￣▼￣) https://t.co/AriA0ZoJDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 267,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

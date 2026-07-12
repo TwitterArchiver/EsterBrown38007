@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073428721273569280"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2073428724159291427",
+    "created_at": "2026-07-04T15:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073428724159291427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QuyXIBfKF1",
+          "end": 137,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2073428724159291427/photo/1",
+          "media_key": "3_2073428721273569280",
+          "start": 114,
+          "url": "https://t.co/QuyXIBfKF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073428724159291427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说真的愈美片，普瑞巴林真的不要吞了，老老实实好好吃药快点好起来吧，这样真的解决不了问题的好吧，放过你的胃和肾吧。把那些致幻药品放下，换成品茶，学习乐器，学金融财务知识，提高学历，努力赚钱。人就活这一回，不要让这些东西耽误你们。 https://t.co/QuyXIBfKF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2073428721273569280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZMb76agAAXJcI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073428721273569280"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2073428724159291427",
+        "created_at": "2026-07-04T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073428724159291427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuyXIBfKF1",
+              "end": 137,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2073428724159291427/photo/1",
+              "media_key": "3_2073428721273569280",
+              "start": 114,
+              "url": "https://t.co/QuyXIBfKF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428724159291427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说真的愈美片，普瑞巴林真的不要吞了，老老实实好好吃药快点好起来吧，这样真的解决不了问题的好吧，放过你的胃和肾吧。把那些致幻药品放下，换成品茶，学习乐器，学金融财务知识，提高学历，努力赚钱。人就活这一回，不要让这些东西耽误你们。 https://t.co/QuyXIBfKF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 272,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

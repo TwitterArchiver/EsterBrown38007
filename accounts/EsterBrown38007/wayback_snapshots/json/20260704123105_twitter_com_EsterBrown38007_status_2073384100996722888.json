@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073384097691713536"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068297602161054201",
+    "created_at": "2026-07-04T12:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073384100996722888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053892249851998208",
+          "start": 0,
+          "username": "iiq1427276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u9vERrhZNB",
+          "end": 40,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2073384100996722888/photo/1",
+          "media_key": "3_2073384097691713536",
+          "start": 17,
+          "url": "https://t.co/u9vERrhZNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073384100996722888",
+    "in_reply_to_user_id": "2053892249851998208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068297602161054201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiq1427276 小橘子！ https://t.co/u9vERrhZNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073384097691713536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYj2gHbwAA73Hv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068297587615256576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQRspea0AASQKs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068297587632099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQRspib0AAcj8i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073384097691713536"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068297602161054201",
+        "created_at": "2026-07-04T12:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073384100996722888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053892249851998208",
+              "start": 0,
+              "username": "iiq1427276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9vERrhZNB",
+              "end": 40,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2073384100996722888/photo/1",
+              "media_key": "3_2073384097691713536",
+              "start": 17,
+              "url": "https://t.co/u9vERrhZNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073384100996722888",
+        "in_reply_to_user_id": "2053892249851998208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068297602161054201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiq1427276 小橘子！ https://t.co/u9vERrhZNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068297587615256576",
+            "3_2068297587632099328"
+          ]
+        },
+        "author_id": "2053892249851998208",
+        "conversation_id": "2068297602161054201",
+        "created_at": "2026-06-20T11:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068297602161054201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "水上由岐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilFTL86GxO",
+              "end": 38,
+              "expanded_url": "https://x.com/iiq1427276/status/2068297602161054201/photo/1",
+              "media_key": "3_2068297587615256576",
+              "start": 15,
+              "url": "https://t.co/ilFTL86GxO"
+            },
+            {
+              "display_url": "pic.x.com/ilFTL86GxO",
+              "end": 38,
+              "expanded_url": "https://x.com/iiq1427276/status/2068297602161054201/photo/1",
+              "media_key": "3_2068297587632099328",
+              "start": 15,
+              "url": "https://t.co/ilFTL86GxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068297602161054201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 953,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“人啊，幸福吧”\n#水上由岐 https://t.co/ilFTL86GxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 272,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "夏美在此💟08|infp|双相|ADHD|双性恋|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|水上由岐重度依赖|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 127,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 104,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "location": "全世界最萌的夏美",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2068297602161054201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072928025931661312/4z_pTR9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 181,
+          "like_count": 1621,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

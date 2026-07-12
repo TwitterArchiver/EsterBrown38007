@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2073009871969202252",
+    "created_at": "2026-07-04T10:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073351343235031084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        },
+        {
+          "end": 26,
+          "id": "2021200224388341760",
+          "start": 10,
+          "username": "XF_shiho_mafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073351343235031084",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073350935116644633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 @XF_shiho_mafuyu 我发现报道上基本把烷胺和ymp，pr放到一块讲，那会不会单方烷胺和感康也要管制呢。好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2073009871969202252",
+        "created_at": "2026-07-04T10:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073351343235031084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            },
+            {
+              "end": 26,
+              "id": "2021200224388341760",
+              "start": 10,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073351343235031084",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073350935116644633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 @XF_shiho_mafuyu 我发现报道上基本把烷胺和ymp，pr放到一块讲，那会不会单方烷胺和感康也要管制呢。好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2073009871969202252",
+        "created_at": "2026-07-04T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073350935116644633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            },
+            {
+              "end": 33,
+              "id": "2021200224388341760",
+              "start": 17,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073350935116644633",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073267642341974310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 @XF_shiho_mafuyu 感康要是也被加强管制那就好玩了🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 272,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "两次自杀失败被抢救回来，休学在家///\n///账号总是被马斯克做局🫪\n///@06auser@chuyinweilai114",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2073203496095252658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044266498173321216/b98Qhpg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 113,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 240,
+          "like_count": 5616,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

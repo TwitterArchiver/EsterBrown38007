@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2075260916506247339",
+    "created_at": "2026-07-09T16:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075260916506247339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075260916506247339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画的画发抖音获得了200多个赞，好开心好幸福。突然萌生了想搞同人然后扩列一点同好的想法，但是没有混过圈，与人打交道好恐怖啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2075260916506247339",
+        "created_at": "2026-07-09T16:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075260916506247339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075260916506247339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画的画发抖音获得了200多个赞，好开心好幸福。突然萌生了想搞同人然后扩列一点同好的想法，但是没有混过圈，与人打交道好恐怖啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 266,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 576
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

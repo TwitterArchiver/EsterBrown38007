@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074792864215867392",
+        "3_2074792865205809152"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2074792868338942041",
+    "created_at": "2026-07-08T09:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074792868338942041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xDyythVQmf",
+          "end": 40,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2074792868338942041/photo/1",
+          "media_key": "3_2074792864215867392",
+          "start": 17,
+          "url": "https://t.co/xDyythVQmf"
+        },
+        {
+          "display_url": "pic.x.com/xDyythVQmf",
+          "end": 40,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2074792868338942041/photo/1",
+          "media_key": "3_2074792865205809152",
+          "start": 17,
+          "url": "https://t.co/xDyythVQmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074792868338942041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仿了那个专辑封面，画的我好累。。 https://t.co/xDyythVQmf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_2074792864215867392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMslHgYaIAAV1OF.jpg",
+        "width": 1584
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2074792865205809152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMslHkEbcAAijLz.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074792864215867392",
+            "3_2074792865205809152"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2074792868338942041",
+        "created_at": "2026-07-08T09:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074792868338942041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDyythVQmf",
+              "end": 40,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2074792868338942041/photo/1",
+              "media_key": "3_2074792864215867392",
+              "start": 17,
+              "url": "https://t.co/xDyythVQmf"
+            },
+            {
+              "display_url": "pic.x.com/xDyythVQmf",
+              "end": 40,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2074792868338942041/photo/1",
+              "media_key": "3_2074792865205809152",
+              "start": 17,
+              "url": "https://t.co/xDyythVQmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792868338942041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仿了那个专辑封面，画的我好累。。 https://t.co/xDyythVQmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 267,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

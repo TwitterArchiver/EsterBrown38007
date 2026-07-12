@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2073884538351353974",
+    "created_at": "2026-07-05T21:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073884538351353974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073884538351353974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我每天都高强度刷推，但是会经常几天也不发帖子，大概是因为我的现生很颓废且平淡无趣。没有什么爱好也不打游戏，也没有动力和精力去做他人看来有意义的事情。只是这样每天重复的刷着推特和抖音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2073884538351353974",
+        "created_at": "2026-07-05T21:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073884538351353974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073884538351353974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我每天都高强度刷推，但是会经常几天也不发帖子，大概是因为我的现生很颓废且平淡无趣。没有什么爱好也不打游戏，也没有动力和精力去做他人看来有意义的事情。只是这样每天重复的刷着推特和抖音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 271,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}
