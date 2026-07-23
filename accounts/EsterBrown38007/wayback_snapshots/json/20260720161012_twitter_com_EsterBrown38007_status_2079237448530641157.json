@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079228125465178395",
+    "created_at": "2026-07-20T16:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079237448530641157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079206250819317760",
+          "start": 0,
+          "username": "poison1oyfn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079237448530641157",
+    "in_reply_to_user_id": "2079206250819317760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079228427757142522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poison1oyfn7 阿片会爱我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079228125465178395",
+        "created_at": "2026-07-20T16:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079237448530641157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079206250819317760",
+              "start": 0,
+              "username": "poison1oyfn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079237448530641157",
+        "in_reply_to_user_id": "2079206250819317760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079228427757142522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poison1oyfn7 阿片会爱我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079206250819317760",
+        "conversation_id": "2079228125465178395",
+        "created_at": "2026-07-20T15:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079228427757142522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079228427757142522",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079228125465178395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 缺愛了，集美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 289,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T14:08:08.000Z",
+        "description": "",
+        "id": "2079206250819317760",
+        "name": "화장",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079207206516625408/liYV0OCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "poison1oyfn7",
+        "verified": false
+      }
+    ]
+  }
+}

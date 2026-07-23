@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079247680400978059",
+    "created_at": "2026-07-21T01:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079384110016168271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948364171160227840",
+          "start": 0,
+          "username": "Mak1287267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079384110016168271",
+    "in_reply_to_user_id": "1948364171160227840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079383494174941349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mak1287267 呜呜我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079247680400978059",
+        "created_at": "2026-07-21T01:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079384110016168271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948364171160227840",
+              "start": 0,
+              "username": "Mak1287267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079384110016168271",
+        "in_reply_to_user_id": "1948364171160227840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079383494174941349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mak1287267 呜呜我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948364171160227840",
+        "conversation_id": "2079247680400978059",
+        "created_at": "2026-07-21T01:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079383494174941349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079383494174941349",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079247680400978059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 抱抱🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 297,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 728
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:46:46.000Z",
+        "description": "🇨🇳10高二\n大号@mmrnadna2\n小号@mmrnadnawww\n希望和大家能多多聊天🥺\nDM什么的请随意不用拘谨\n无言关注真是抱歉了\n永远最好最可爱的弟弟🥰永远爱你！！！@Mark67358226",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "mmrnadna2"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "mmrnadnawww"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Mark67358226"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=ebf878…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=ebf87838-64ac-4aeb-86ec-fcfe7518097e",
+                "start": 0,
+                "url": "https://t.co/lsiXEDgSC7"
+              }
+            ]
+          }
+        },
+        "id": "1948364171160227840",
+        "location": "Utopia😽",
+        "name": "断桥边看雨",
+        "pinned_tweet_id": "2078836679255933328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079164753587712000/PiX4152k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 257,
+          "like_count": 2071,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/lsiXEDgSC7",
+        "username": "Mak1287267",
+        "verified": false
+      }
+    ]
+  }
+}

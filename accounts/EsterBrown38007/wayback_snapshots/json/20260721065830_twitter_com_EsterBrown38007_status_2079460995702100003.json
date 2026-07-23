@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079248027869729084",
+    "created_at": "2026-07-21T06:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079460995702100003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066202339674148864",
+          "start": 0,
+          "username": "HeatherTrumpet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079460995702100003",
+    "in_reply_to_user_id": "2066202339674148864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079451747769082007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeatherTrumpet 因为我是在自嘲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079248027869729084",
+        "created_at": "2026-07-21T06:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079460995702100003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066202339674148864",
+              "start": 0,
+              "username": "HeatherTrumpet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079460995702100003",
+        "in_reply_to_user_id": "2066202339674148864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079451747769082007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeatherTrumpet 因为我是在自嘲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066202339674148864",
+        "conversation_id": "2079248027869729084",
+        "created_at": "2026-07-21T06:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079451747769082007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079451747769082007",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079248027869729084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 不怕被骂？已畏惧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 300,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T16:54:14.000Z",
+        "description": "支那猪最严厉的父亲🌹遇到不理智的人我会屏蔽🚫/本人精日🇯🇵右翼自由派/喜欢日本风景✨文化🎸二次元❤️/粉畜给我滚远点🔥反对中共政府👎支持台独言论👍/大日本帝国前线最锋利的剑！哪里有支畜哪里就有我🔥屏蔽你≠害怕你，而是认为你很傻、无意义争吵、阿Q精神/喜欢不断嘴臭+挑衅的你就给我等着被我挂网上献丑",
+        "id": "2066202339674148864",
+        "location": "731实验中心.屠支大使馆",
+        "name": "のきはら ひろゆき🇯🇵（731）",
+        "pinned_tweet_id": "2079327353138799037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077783882624073728/A4OOnJ4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 236,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "HeatherTrumpet",
+        "verified": false
+      }
+    ]
+  }
+}

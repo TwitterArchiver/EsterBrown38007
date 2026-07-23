@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079287290959126643",
+    "created_at": "2026-07-21T00:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079360542171676765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053188363566391296",
+          "start": 0,
+          "username": "ayahuasca8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079360542171676765",
+    "in_reply_to_user_id": "2053188363566391296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079338897570676971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayahuasca8964 我错了我现在醒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079287290959126643",
+        "created_at": "2026-07-21T00:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079360542171676765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053188363566391296",
+              "start": 0,
+              "username": "ayahuasca8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079360542171676765",
+        "in_reply_to_user_id": "2053188363566391296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079338897570676971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayahuasca8964 我错了我现在醒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2079287290959126643",
+        "created_at": "2026-07-20T22:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079338897570676971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079338897570676971",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079287290959126643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 過河拆橋？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 295,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Aya",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069508917999353856/8ij5Dnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 40,
+          "like_count": 9670,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "ayahuasca8964",
+        "verified": false
+      }
+    ]
+  }
+}

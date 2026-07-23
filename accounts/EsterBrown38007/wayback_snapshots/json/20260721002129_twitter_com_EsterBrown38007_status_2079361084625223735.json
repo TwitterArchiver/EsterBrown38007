@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079248027869729084",
+    "created_at": "2026-07-21T00:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079361084625223735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "a1ter_ego_01"
+        },
+        {
+          "end": 28,
+          "id": "2016028559228469252",
+          "start": 14,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079361084625223735",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079360903951290485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ter_ego_01 @Alvvaysioffy1 卧槽我昨晚上o大了在发疯，我没有真的骂呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079248027869729084",
+        "created_at": "2026-07-21T00:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079361084625223735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "a1ter_ego_01"
+            },
+            {
+              "end": 28,
+              "id": "2016028559228469252",
+              "start": 14,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079361084625223735",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079360903951290485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ter_ego_01 @Alvvaysioffy1 卧槽我昨晚上o大了在发疯，我没有真的骂呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2079248027869729084",
+        "created_at": "2026-07-21T00:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079360903951290485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            },
+            {
+              "end": 31,
+              "id": "2016028559228469252",
+              "start": 17,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079360903951290485",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079358799564202176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 @Alvvaysioffy1 可以 你人很好 👍 我觉得会道歉的都是好人🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 296,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "｜网络巨人｜神✝️｜东京｜fps｜od｜",
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "統合失調",
+        "pinned_tweet_id": "2073051328507785492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071293806344048640/KMr1GGPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 39,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "a1ter_ego_01",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 240,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078889457386926080",
+        "3_2078889464987004928"
+      ]
+    },
+    "author_id": "2039398734962761728",
+    "conversation_id": "2078889472213835842",
+    "created_at": "2026-07-19T17:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078889472213835842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nZP76QdzoI",
+          "end": 50,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2078889472213835842/photo/1",
+          "media_key": "3_2078889457386926080",
+          "start": 27,
+          "url": "https://t.co/nZP76QdzoI"
+        },
+        {
+          "display_url": "pic.x.com/nZP76QdzoI",
+          "end": 50,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2078889472213835842/photo/1",
+          "media_key": "3_2078889464987004928",
+          "start": 27,
+          "url": "https://t.co/nZP76QdzoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078889472213835842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好想哭啊为什么会是这样的结局啊我完全接受不了。 https://t.co/nZP76QdzoI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2078889457386926080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmy8nLaMAArccH.jpg",
+        "width": 1567
+      },
+      {
+        "height": 814,
+        "media_key": "3_2078889464987004928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmy9DfaMAAzYdN.jpg",
+        "width": 1565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078889457386926080",
+            "3_2078889464987004928"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2078889472213835842",
+        "created_at": "2026-07-19T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078889472213835842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZP76QdzoI",
+              "end": 50,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2078889472213835842/photo/1",
+              "media_key": "3_2078889457386926080",
+              "start": 27,
+              "url": "https://t.co/nZP76QdzoI"
+            },
+            {
+              "display_url": "pic.x.com/nZP76QdzoI",
+              "end": 50,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2078889472213835842/photo/1",
+              "media_key": "3_2078889464987004928",
+              "start": 27,
+              "url": "https://t.co/nZP76QdzoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078889472213835842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好想哭啊为什么会是这样的结局啊我完全接受不了。 https://t.co/nZP76QdzoI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 281,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

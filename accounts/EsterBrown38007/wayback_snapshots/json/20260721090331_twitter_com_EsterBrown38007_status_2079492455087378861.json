@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079463248945197326",
+    "created_at": "2026-07-21T09:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079492455087378861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900413813197070336",
+          "start": 0,
+          "username": "HuaWu73858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079492455087378861",
+    "in_reply_to_user_id": "1900413813197070336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079492284173742457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaWu73858 我也不会呀💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079463248945197326",
+        "created_at": "2026-07-21T09:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079492455087378861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900413813197070336",
+              "start": 0,
+              "username": "HuaWu73858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079492455087378861",
+        "in_reply_to_user_id": "1900413813197070336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079492284173742457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaWu73858 我也不会呀💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900413813197070336",
+        "conversation_id": "2079463248945197326",
+        "created_at": "2026-07-21T09:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079492284173742457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079492284173742457",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079463248945197326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 亲欧迪是什么意思啊刚注册不懂，可以教教我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 302,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:09:05.000Z",
+        "description": "18↑ oder 簡體中文🇨🇳/繁體中文🇹🇼 OK\nproject moon享受者,金智勳你媽死了\n世界計畫,啟動！",
+        "id": "1900413813197070336",
+        "location": "邁克·華萊士家裡",
+        "name": "世界計畫你放過我吧🇹🇼🏴‍☠️",
+        "pinned_tweet_id": "2073432048493080710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042811161364873216/4StNBH4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 40,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "HuaWu73858",
+        "verified": false
+      }
+    ]
+  }
+}

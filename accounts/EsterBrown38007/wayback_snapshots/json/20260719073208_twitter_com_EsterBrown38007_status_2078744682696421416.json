@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2078166826840908007",
+    "created_at": "2026-07-19T07:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078744682696421416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1029992475690065920",
+          "start": 0,
+          "username": "DDD89195877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078744682696421416",
+    "in_reply_to_user_id": "1029992475690065920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078744539217698847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDD89195877 真的变鸡了，后劲感觉特别傻逼一直做梦💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2078166826840908007",
+        "created_at": "2026-07-19T07:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078744682696421416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1029992475690065920",
+              "start": 0,
+              "username": "DDD89195877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078744682696421416",
+        "in_reply_to_user_id": "1029992475690065920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078744539217698847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDD89195877 真的变鸡了，后劲感觉特别傻逼一直做梦💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1029992475690065920",
+        "conversation_id": "2078166826840908007",
+        "created_at": "2026-07-19T07:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078744539217698847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078744539217698847",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078166826840908007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 你...编程了。。一直肌.？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 279,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-16T07:25:17.000Z",
+        "description": "女巫灭门惨案",
+        "id": "1029992475690065920",
+        "name": "Chairman☆Artyom",
+        "pinned_tweet_id": "2058012719643779411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006064034030968833/BX-v6DYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 895,
+          "like_count": 11092,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 2329
+        },
+        "url": "",
+        "username": "DDD89195877",
+        "verified": false
+      }
+    ]
+  }
+}

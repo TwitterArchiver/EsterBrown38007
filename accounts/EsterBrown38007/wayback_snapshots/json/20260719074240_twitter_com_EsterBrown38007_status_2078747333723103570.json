@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2077736924098539850",
+    "created_at": "2026-07-19T07:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078747333723103570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1924169100240322560",
+          "start": 0,
+          "username": "windymoon0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078747333723103570",
+    "in_reply_to_user_id": "1924169100240322560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077777565176238490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windymoon0330 od是不对的，他就要明白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2077736924098539850",
+        "created_at": "2026-07-19T07:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078747333723103570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1924169100240322560",
+              "start": 0,
+              "username": "windymoon0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078747333723103570",
+        "in_reply_to_user_id": "1924169100240322560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077777565176238490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windymoon0330 od是不对的，他就要明白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924169100240322560",
+        "conversation_id": "2077736924098539850",
+        "created_at": "2026-07-16T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077777565176238490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077777565176238490",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077736924098539850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 我也想吃一口…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "Kimika",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 281,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T18:24:12.000Z",
+        "description": "看著我緩緩流動而噤聲著死去吧",
+        "id": "1924169100240322560",
+        "location": "夢",
+        "name": "ivyonmygrave_",
+        "pinned_tweet_id": "2074419629594980541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062627731054190592/k8kuNoR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 67,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "windymoon0330",
+        "verified": false
+      }
+    ]
+  }
+}

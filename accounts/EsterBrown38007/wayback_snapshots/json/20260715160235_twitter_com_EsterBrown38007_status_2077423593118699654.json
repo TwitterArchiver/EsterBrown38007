@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2077423593118699654",
+    "created_at": "2026-07-15T16:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077423593118699654"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077423593118699654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暑假同龄人都在游山玩水。只有我在家阴暗的蠕动。。。区区区蛐蛐？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2077423593118699654",
+        "created_at": "2026-07-15T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077423593118699654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077423593118699654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暑假同龄人都在游山玩水。只有我在家阴暗的蠕动。。。区区区蛐蛐？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "一条区",
+        "id": "2039398734962761728",
+        "location": "？！区区！？",
+        "name": "Kimika",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 275,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

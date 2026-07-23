@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079248027869729084",
+    "created_at": "2026-07-21T00:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079360695427375422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852948864539791360",
+          "start": 0,
+          "username": "Z7862947460634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079360695427375422",
+    "in_reply_to_user_id": "1852948864539791360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079337940703223840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z7862947460634 卧槽我错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079248027869729084",
+        "created_at": "2026-07-21T00:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079360695427375422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852948864539791360",
+              "start": 0,
+              "username": "Z7862947460634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079360695427375422",
+        "in_reply_to_user_id": "1852948864539791360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079337940703223840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z7862947460634 卧槽我错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852948864539791360",
+        "conversation_id": "2079248027869729084",
+        "created_at": "2026-07-20T22:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079337940703223840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079337940703223840",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079248027869729084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 还真是，等等你不会才o完吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 295,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "MtX | 跨圈观察者 🏳️‍⚧️ | 一个想找人说话又既不会也不敢说话的傻缺 | 08\nHRT(?,考虑中)",
+        "id": "1852948864539791360",
+        "location": "Unknown",
+        "name": "Xunyu_迅羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078269483752546304/s1oQa5q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 99,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": false
+      }
+    ]
+  }
+}

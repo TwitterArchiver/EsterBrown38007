@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079210040775659636",
+    "created_at": "2026-07-20T14:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079212227605967324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079212227605967324",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079210040775659636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "起效了，我脸上好痒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_2079210030482722816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrWgbBaEAAbkCg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079210040775659636",
+        "created_at": "2026-07-20T14:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079212227605967324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079212227605967324",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079210040775659636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起效了，我脸上好痒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079210030482722816"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079210040775659636",
+        "created_at": "2026-07-20T14:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079210040775659636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQ9k2lhHNC",
+              "end": 27,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2079210040775659636/photo/1",
+              "media_key": "3_2079210030482722816",
+              "start": 4,
+              "url": "https://t.co/PQ9k2lhHNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079210040775659636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没效果 https://t.co/PQ9k2lhHNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 287,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

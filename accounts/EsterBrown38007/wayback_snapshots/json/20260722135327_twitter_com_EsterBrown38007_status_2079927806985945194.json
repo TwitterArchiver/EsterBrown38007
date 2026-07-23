@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2070836442088231090",
+    "created_at": "2026-07-22T13:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079927806985945194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030245517473804290",
+          "start": 0,
+          "username": "ABlair93311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079927806985945194",
+    "in_reply_to_user_id": "2030245517473804290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079914722229624926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABlair93311 还没有，目前打算拆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2070836442088231090",
+        "created_at": "2026-07-22T13:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079927806985945194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030245517473804290",
+              "start": 0,
+              "username": "ABlair93311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079927806985945194",
+        "in_reply_to_user_id": "2030245517473804290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079914722229624926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABlair93311 还没有，目前打算拆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030245517473804290",
+        "conversation_id": "2070836442088231090",
+        "created_at": "2026-07-22T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079914722229624926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079914722229624926",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070836442088231090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 是不是上下铺的上铺拆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "不od不吸毒不提供渠道不出售任何",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 306,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:33:58.000Z",
+        "description": "Watashiwa watashi",
+        "id": "2030245517473804290",
+        "location": "HongKong , China",
+        "name": "喵姆酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032071009059422209/2eSda8iP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 132,
+          "like_count": 8040,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "ABlair93311",
+        "verified": false
+      }
+    ]
+  }
+}
