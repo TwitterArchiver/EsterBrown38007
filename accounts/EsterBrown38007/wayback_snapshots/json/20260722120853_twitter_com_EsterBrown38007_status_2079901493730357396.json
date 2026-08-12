@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079287290959126643",
+    "created_at": "2026-07-22T12:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079901493730357396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790416151375233027",
+          "start": 0,
+          "username": "2025shushufuhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079901493730357396",
+    "in_reply_to_user_id": "1790416151375233027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079893694040121817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2025shushufuhuo 我现在撤回这个帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079287290959126643",
+        "created_at": "2026-07-22T12:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079901493730357396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790416151375233027",
+              "start": 0,
+              "username": "2025shushufuhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079901493730357396",
+        "in_reply_to_user_id": "1790416151375233027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079893694040121817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2025shushufuhuo 我现在撤回这个帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790416151375233027",
+        "conversation_id": "2079287290959126643",
+        "created_at": "2026-07-22T11:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079893694040121817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079893694040121817",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079287290959126643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 什麼賢者時間"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "不od不吸毒不提供渠道不出售任何",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 306,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T16:17:41.000Z",
+        "description": "永遠嚮往自由，永遠追求文明與愛/支持民主文明製度，不支持威權以及極端宗教/LGBT友好/自由派，光谱偏向社会自由主义/獨立主義/支黑友好/安人友好/oder友好/自由左友好/AFAB的跨子\n\n請使用they/ta\n\noder友好/“吸毒”人士友好/炼铜人士中立\n\n鍵政/聊天/日常bot\n\n小粉紅/威權左滚，禁fo🚫",
+        "id": "1790416151375233027",
+        "name": "芝士球大牢鼠（teachersexual版）🏳️‍⚧️",
+        "pinned_tweet_id": "2079863234320834773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941497188103659520/qVRjInzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 240,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "2025shushufuhuo",
+        "verified": false
+      }
+    ]
+  }
+}

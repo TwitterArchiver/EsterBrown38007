@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2039398734962761728",
+    "conversation_id": "2079860346270203989",
+    "created_at": "2026-07-22T11:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079892370116706411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078277656412581889",
+          "start": 0,
+          "username": "WXX0530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079892370116706411",
+    "in_reply_to_user_id": "2078277656412581889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079878705665786276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WXX0530 我才不干这种事😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079860346270203989",
+        "created_at": "2026-07-22T11:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079892370116706411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078277656412581889",
+              "start": 0,
+              "username": "WXX0530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079892370116706411",
+        "in_reply_to_user_id": "2078277656412581889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079878705665786276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WXX0530 我才不干这种事😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078277656412581889",
+        "conversation_id": "2079860346270203989",
+        "created_at": "2026-07-22T10:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079878705665786276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079878705665786276",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079860346270203989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 實際上想自己拿去享用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "不od不吸毒不提供渠道不出售任何",
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 305,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "一個04年大學生/看好主頁封面圖判定我為男女/167cm/64kg/精神狀態未知/無敵社恐/喜歡寂靜/Delta Force/有過應激行為（少）/磕藥/歡迎大家來我主頁玩",
+        "id": "2078277656412581889",
+        "location": "China Taiwan",
+        "name": "Fiona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078278068293210112/w5w_LNlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 66,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": false
+      }
+    ]
+  }
+}
